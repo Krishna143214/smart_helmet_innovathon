@@ -364,7 +364,7 @@ Further software directions include underground tunnel mapping, indoor positioni
 
 The repository includes the project presentation:
 
-[`MineWatch-IoT-Based-Smart-Mining-Helmet-Polished.pptx`](./MineWatch-IoT-Based-Smart-Mining-Helmet-Polished.pptx)
+[`smart-mining-helmet-innovathon.pptx`](./smart-mining-helmet-innovathon.pptx)
 
 ## Team
 
