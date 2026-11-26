@@ -1,0 +1,8960 @@
+[
+  {
+    "timestamp": 1793652783685,
+    "gas": 448,
+    "temperature": 21.7,
+    "humidity": 66.7
+  },
+  {
+    "timestamp": 1793652794055,
+    "gas": 445,
+    "temperature": 21.9,
+    "humidity": 68.6
+  },
+  {
+    "timestamp": 1793652807235,
+    "gas": 404,
+    "temperature": 21.9,
+    "humidity": 68.8
+  },
+  {
+    "timestamp": 1793652817885,
+    "gas": 393,
+    "temperature": 21.8,
+    "humidity": 68.9
+  },
+  {
+    "timestamp": 1793652830030,
+    "gas": 386,
+    "temperature": 22,
+    "humidity": 68.9
+  },
+  {
+    "timestamp": 1793652842260,
+    "gas": 387,
+    "temperature": 22,
+    "humidity": 68.6
+  },
+  {
+    "timestamp": 1793652854290,
+    "gas": 380,
+    "temperature": 22.1,
+    "humidity": 68.7
+  },
+  {
+    "timestamp": 1793652866065,
+    "gas": 378,
+    "temperature": 22.9,
+    "humidity": 68.4
+  },
+  {
+    "timestamp": 1793652878160,
+    "gas": 380,
+    "temperature": 22,
+    "humidity": 68.6
+  },
+  {
+    "timestamp": 1793652890030,
+    "gas": 377,
+    "temperature": 22.2,
+    "humidity": 68.6
+  },
+  {
+    "timestamp": 1793652902015,
+    "gas": 380,
+    "temperature": 22.2,
+    "humidity": 68.6
+  },
+  {
+    "timestamp": 1793652914155,
+    "gas": 377,
+    "temperature": 22.3,
+    "humidity": 68.5
+  },
+  {
+    "timestamp": 1793652926170,
+    "gas": 387,
+    "temperature": 21.8,
+    "humidity": 68.9
+  },
+  {
+    "timestamp": 1793653184701,
+    "gas": 356,
+    "temperature": 22.3,
+    "humidity": 68.4
+  },
+  {
+    "timestamp": 1793653195456,
+    "gas": 360,
+    "temperature": 21.9,
+    "humidity": 69.2
+  },
+  {
+    "timestamp": 1793653208336,
+    "gas": 361,
+    "temperature": 21.7,
+    "humidity": 69.5
+  },
+  {
+    "timestamp": 1793653221976,
+    "gas": 358,
+    "temperature": 21.9,
+    "humidity": 69.4
+  },
+  {
+    "timestamp": 1793653232187,
+    "gas": 358,
+    "temperature": 22,
+    "humidity": 69.7
+  },
+  {
+    "timestamp": 1793653244467,
+    "gas": 362,
+    "temperature": 22,
+    "humidity": 69.5
+  },
+  {
+    "timestamp": 1793653256427,
+    "gas": 356,
+    "temperature": 22.3,
+    "humidity": 69.3
+  },
+  {
+    "timestamp": 1793653266572,
+    "gas": 362,
+    "temperature": 22,
+    "humidity": 69.3
+  },
+  {
+    "timestamp": 1793654049699,
+    "gas": 489,
+    "temperature": 21.4,
+    "humidity": 67.8
+  },
+  {
+    "timestamp": 1793654060860,
+    "gas": 484,
+    "temperature": 21.5,
+    "humidity": 70.4
+  },
+  {
+    "timestamp": 1793654072345,
+    "gas": 435,
+    "temperature": 21.7,
+    "humidity": 70.6
+  },
+  {
+    "timestamp": 1793654084319,
+    "gas": 425,
+    "temperature": 21.6,
+    "humidity": 70.8
+  },
+  {
+    "timestamp": 1793654096600,
+    "gas": 416,
+    "temperature": 21.9,
+    "humidity": 70.4
+  },
+  {
+    "timestamp": 1793654108644,
+    "gas": 413,
+    "temperature": 21.6,
+    "humidity": 70.4
+  },
+  {
+    "timestamp": 1793654121210,
+    "gas": 411,
+    "temperature": 21.8,
+    "humidity": 70.1
+  },
+  {
+    "timestamp": 1793654136325,
+    "gas": 411,
+    "temperature": 21.9,
+    "humidity": 70
+  },
+  {
+    "timestamp": 1793654144679,
+    "gas": 410,
+    "temperature": 21.9,
+    "humidity": 70
+  },
+  {
+    "timestamp": 1793654168044,
+    "gas": 417,
+    "temperature": 22,
+    "humidity": 70
+  },
+  {
+    "timestamp": 1793654188054,
+    "gas": 412,
+    "temperature": 22,
+    "humidity": 70
+  },
+  {
+    "timestamp": 1793654210011,
+    "gas": 422,
+    "temperature": 22.1,
+    "humidity": 69.6
+  },
+  {
+    "timestamp": 1793654229901,
+    "gas": 429,
+    "temperature": 22,
+    "humidity": 69.5
+  },
+  {
+    "timestamp": 1793654674681,
+    "gas": 387,
+    "temperature": 21.7,
+    "humidity": 68.3
+  },
+  {
+    "timestamp": 1793654901011,
+    "gas": 379,
+    "temperature": 22.3,
+    "humidity": 66.4
+  },
+  {
+    "timestamp": 1793655090823,
+    "gas": 367,
+    "temperature": 22.4,
+    "humidity": 65.2
+  },
+  {
+    "timestamp": 1793655175315,
+    "gas": 367,
+    "temperature": 22.4,
+    "humidity": 65.2
+  },
+  {
+    "timestamp": 1793655187347,
+    "gas": 366,
+    "temperature": 22.4,
+    "humidity": 65.3
+  },
+  {
+    "timestamp": 1793655202097,
+    "gas": 363,
+    "temperature": 22.4,
+    "humidity": 65.1
+  },
+  {
+    "timestamp": 1793655212022,
+    "gas": 367,
+    "temperature": 22.8,
+    "humidity": 65
+  },
+  {
+    "timestamp": 1793746241391,
+    "gas": 902,
+    "temperature": 25.7,
+    "humidity": 57.1
+  },
+  {
+    "timestamp": 1793746252131,
+    "gas": 958,
+    "temperature": 25.6,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1793746270955,
+    "gas": 907,
+    "temperature": 26.1,
+    "humidity": 57.6
+  },
+  {
+    "timestamp": 1793746287031,
+    "gas": 877,
+    "temperature": 26.1,
+    "humidity": 57.5
+  },
+  {
+    "timestamp": 1793746289451,
+    "gas": 824,
+    "temperature": 26.1,
+    "humidity": 57.3
+  },
+  {
+    "timestamp": 1793746300471,
+    "gas": 786,
+    "temperature": 26.2,
+    "humidity": 57.2
+  },
+  {
+    "timestamp": 1793746312576,
+    "gas": 808,
+    "temperature": 26.2,
+    "humidity": 57.1
+  },
+  {
+    "timestamp": 1793746324391,
+    "gas": 749,
+    "temperature": 26.6,
+    "humidity": 57
+  },
+  {
+    "timestamp": 1793746337161,
+    "gas": 661,
+    "temperature": 26.4,
+    "humidity": 58.8
+  },
+  {
+    "timestamp": 1793746348380,
+    "gas": 638,
+    "temperature": 26.4,
+    "humidity": 57.3
+  },
+  {
+    "timestamp": 1793746360471,
+    "gas": 494,
+    "temperature": 26.4,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1793746372431,
+    "gas": 393,
+    "temperature": 26.6,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1793746384591,
+    "gas": 336,
+    "temperature": 26.4,
+    "humidity": 55.1
+  },
+  {
+    "timestamp": 1793746396456,
+    "gas": 304,
+    "temperature": 26.4,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793746408530,
+    "gas": 279,
+    "temperature": 26.6,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793746420605,
+    "gas": 260,
+    "temperature": 25.9,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1793746432530,
+    "gas": 250,
+    "temperature": 25.7,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793746444766,
+    "gas": 246,
+    "temperature": 25.5,
+    "humidity": 53.9
+  },
+  {
+    "timestamp": 1793746456791,
+    "gas": 245,
+    "temperature": 25.1,
+    "humidity": 54
+  },
+  {
+    "timestamp": 1793746468770,
+    "gas": 236,
+    "temperature": 25,
+    "humidity": 53.7
+  },
+  {
+    "timestamp": 1793746480771,
+    "gas": 235,
+    "temperature": 25.2,
+    "humidity": 54.4
+  },
+  {
+    "timestamp": 1793746493711,
+    "gas": 234,
+    "temperature": 24.7,
+    "humidity": 54.5
+  },
+  {
+    "timestamp": 1793746504730,
+    "gas": 231,
+    "temperature": 24.2,
+    "humidity": 55.1
+  },
+  {
+    "timestamp": 1793746516846,
+    "gas": 229,
+    "temperature": 24.3,
+    "humidity": 55
+  },
+  {
+    "timestamp": 1793746528875,
+    "gas": 228,
+    "temperature": 23.9,
+    "humidity": 55.5
+  },
+  {
+    "timestamp": 1793746542110,
+    "gas": 245,
+    "temperature": 24,
+    "humidity": 56.2
+  },
+  {
+    "timestamp": 1793746552901,
+    "gas": 252,
+    "temperature": 23.9,
+    "humidity": 57.5
+  },
+  {
+    "timestamp": 1793746569256,
+    "gas": 208,
+    "temperature": 23.9,
+    "humidity": 58.5
+  },
+  {
+    "timestamp": 1793746578661,
+    "gas": 201,
+    "temperature": 23.8,
+    "humidity": 58.4
+  },
+  {
+    "timestamp": 1793746590816,
+    "gas": 199,
+    "temperature": 23.8,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1793746604736,
+    "gas": 202,
+    "temperature": 23.8,
+    "humidity": 57.6
+  },
+  {
+    "timestamp": 1793746613276,
+    "gas": 201,
+    "temperature": 23.8,
+    "humidity": 57.3
+  },
+  {
+    "timestamp": 1793746625395,
+    "gas": 196,
+    "temperature": 23.8,
+    "humidity": 57.4
+  },
+  {
+    "timestamp": 1793746637636,
+    "gas": 199,
+    "temperature": 23.4,
+    "humidity": 57.4
+  },
+  {
+    "timestamp": 1793746649751,
+    "gas": 197,
+    "temperature": 23.5,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1793746661806,
+    "gas": 199,
+    "temperature": 23.5,
+    "humidity": 57.6
+  },
+  {
+    "timestamp": 1793746673951,
+    "gas": 197,
+    "temperature": 23.4,
+    "humidity": 58.2
+  },
+  {
+    "timestamp": 1793746686396,
+    "gas": 197,
+    "temperature": 23.3,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1793746700350,
+    "gas": 197,
+    "temperature": 23.3,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1793746709880,
+    "gas": 200,
+    "temperature": 23.2,
+    "humidity": 58.5
+  },
+  {
+    "timestamp": 1793746721861,
+    "gas": 207,
+    "temperature": 23.1,
+    "humidity": 58.5
+  },
+  {
+    "timestamp": 1793746733880,
+    "gas": 210,
+    "temperature": 23.1,
+    "humidity": 58.5
+  },
+  {
+    "timestamp": 1793746745855,
+    "gas": 209,
+    "temperature": 22.9,
+    "humidity": 59
+  },
+  {
+    "timestamp": 1793746758120,
+    "gas": 212,
+    "temperature": 22.9,
+    "humidity": 59.7
+  },
+  {
+    "timestamp": 1793746769815,
+    "gas": 228,
+    "temperature": 22.9,
+    "humidity": 59.3
+  },
+  {
+    "timestamp": 1793746781930,
+    "gas": 230,
+    "temperature": 22.9,
+    "humidity": 59.7
+  },
+  {
+    "timestamp": 1793746793846,
+    "gas": 230,
+    "temperature": 22.9,
+    "humidity": 59.6
+  },
+  {
+    "timestamp": 1793746806096,
+    "gas": 235,
+    "temperature": 22.9,
+    "humidity": 59.5
+  },
+  {
+    "timestamp": 1793746818740,
+    "gas": 236,
+    "temperature": 22.6,
+    "humidity": 59
+  },
+  {
+    "timestamp": 1793746846621,
+    "gas": 249,
+    "temperature": 22.7,
+    "humidity": 58.4
+  },
+  {
+    "timestamp": 1793746857246,
+    "gas": 253,
+    "temperature": 22.8,
+    "humidity": 60.4
+  },
+  {
+    "timestamp": 1793746870016,
+    "gas": 247,
+    "temperature": 22.8,
+    "humidity": 59.8
+  },
+  {
+    "timestamp": 1793746881336,
+    "gas": 250,
+    "temperature": 22.8,
+    "humidity": 61.1
+  },
+  {
+    "timestamp": 1793746893711,
+    "gas": 246,
+    "temperature": 22.9,
+    "humidity": 60
+  },
+  {
+    "timestamp": 1793746905276,
+    "gas": 253,
+    "temperature": 23,
+    "humidity": 59.7
+  },
+  {
+    "timestamp": 1793746921436,
+    "gas": 246,
+    "temperature": 22.8,
+    "humidity": 59.3
+  },
+  {
+    "timestamp": 1793746930301,
+    "gas": 250,
+    "temperature": 22.9,
+    "humidity": 59.3
+  },
+  {
+    "timestamp": 1793746941466,
+    "gas": 255,
+    "temperature": 22.8,
+    "humidity": 58.9
+  },
+  {
+    "timestamp": 1793746956191,
+    "gas": 253,
+    "temperature": 23,
+    "humidity": 59.3
+  },
+  {
+    "timestamp": 1793746966796,
+    "gas": 250,
+    "temperature": 22.9,
+    "humidity": 59.1
+  },
+  {
+    "timestamp": 1793746977221,
+    "gas": 257,
+    "temperature": 22.9,
+    "humidity": 59.9
+  },
+  {
+    "timestamp": 1793746989696,
+    "gas": 254,
+    "temperature": 22.9,
+    "humidity": 59.8
+  },
+  {
+    "timestamp": 1793747001941,
+    "gas": 257,
+    "temperature": 22.9,
+    "humidity": 59
+  },
+  {
+    "timestamp": 1793747013276,
+    "gas": 266,
+    "temperature": 22.9,
+    "humidity": 59.2
+  },
+  {
+    "timestamp": 1793747025276,
+    "gas": 256,
+    "temperature": 22.8,
+    "humidity": 59.2
+  },
+  {
+    "timestamp": 1793747037546,
+    "gas": 260,
+    "temperature": 23,
+    "humidity": 58.7
+  },
+  {
+    "timestamp": 1793747049456,
+    "gas": 265,
+    "temperature": 23.2,
+    "humidity": 59.1
+  },
+  {
+    "timestamp": 1793747061236,
+    "gas": 267,
+    "temperature": 22.9,
+    "humidity": 58.8
+  },
+  {
+    "timestamp": 1793747073751,
+    "gas": 303,
+    "temperature": 22.8,
+    "humidity": 59.2
+  },
+  {
+    "timestamp": 1793747086196,
+    "gas": 286,
+    "temperature": 22.9,
+    "humidity": 59.2
+  },
+  {
+    "timestamp": 1793747097945,
+    "gas": 282,
+    "temperature": 22.8,
+    "humidity": 59.5
+  },
+  {
+    "timestamp": 1793747109361,
+    "gas": 289,
+    "temperature": 22.8,
+    "humidity": 58.9
+  },
+  {
+    "timestamp": 1793747125511,
+    "gas": 288,
+    "temperature": 22.8,
+    "humidity": 59.1
+  },
+  {
+    "timestamp": 1793747134601,
+    "gas": 306,
+    "temperature": 22.8,
+    "humidity": 59.1
+  },
+  {
+    "timestamp": 1793747147071,
+    "gas": 288,
+    "temperature": 22.8,
+    "humidity": 58.5
+  },
+  {
+    "timestamp": 1793747158426,
+    "gas": 301,
+    "temperature": 22.7,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1793747170256,
+    "gas": 280,
+    "temperature": 22.9,
+    "humidity": 58.2
+  },
+  {
+    "timestamp": 1793747182516,
+    "gas": 274,
+    "temperature": 22.8,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1793747194716,
+    "gas": 286,
+    "temperature": 22.6,
+    "humidity": 58.5
+  },
+  {
+    "timestamp": 1793747208121,
+    "gas": 288,
+    "temperature": 22.7,
+    "humidity": 58.8
+  },
+  {
+    "timestamp": 1793747218856,
+    "gas": 284,
+    "temperature": 22.7,
+    "humidity": 58.8
+  },
+  {
+    "timestamp": 1793747232336,
+    "gas": 292,
+    "temperature": 22.7,
+    "humidity": 58.7
+  },
+  {
+    "timestamp": 1793747242901,
+    "gas": 285,
+    "temperature": 22.7,
+    "humidity": 58.9
+  },
+  {
+    "timestamp": 1793747254641,
+    "gas": 278,
+    "temperature": 22.7,
+    "humidity": 58.9
+  },
+  {
+    "timestamp": 1793747266646,
+    "gas": 279,
+    "temperature": 22.7,
+    "humidity": 59.3
+  },
+  {
+    "timestamp": 1793747278866,
+    "gas": 295,
+    "temperature": 22.7,
+    "humidity": 59.5
+  },
+  {
+    "timestamp": 1793747290791,
+    "gas": 283,
+    "temperature": 22.7,
+    "humidity": 59.4
+  },
+  {
+    "timestamp": 1793747302836,
+    "gas": 280,
+    "temperature": 22.9,
+    "humidity": 59.2
+  },
+  {
+    "timestamp": 1793747314828,
+    "gas": 274,
+    "temperature": 22.5,
+    "humidity": 58.9
+  },
+  {
+    "timestamp": 1793747328031,
+    "gas": 312,
+    "temperature": 22.6,
+    "humidity": 59.6
+  },
+  {
+    "timestamp": 1793747617501,
+    "gas": 356,
+    "temperature": 25.3,
+    "humidity": 56.8
+  },
+  {
+    "timestamp": 1793747628576,
+    "gas": 317,
+    "temperature": 25.5,
+    "humidity": 57.6
+  },
+  {
+    "timestamp": 1793747640292,
+    "gas": 308,
+    "temperature": 25.5,
+    "humidity": 57.3
+  },
+  {
+    "timestamp": 1793747653007,
+    "gas": 300,
+    "temperature": 25.8,
+    "humidity": 57.1
+  },
+  {
+    "timestamp": 1793747664657,
+    "gas": 238,
+    "temperature": 25.9,
+    "humidity": 57.1
+  },
+  {
+    "timestamp": 1793747676276,
+    "gas": 235,
+    "temperature": 26,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1793747688406,
+    "gas": 231,
+    "temperature": 26.1,
+    "humidity": 56.2
+  },
+  {
+    "timestamp": 1793747700850,
+    "gas": 231,
+    "temperature": 26.2,
+    "humidity": 56
+  },
+  {
+    "timestamp": 1793747713296,
+    "gas": 224,
+    "temperature": 26.2,
+    "humidity": 55.9
+  },
+  {
+    "timestamp": 1793747724362,
+    "gas": 226,
+    "temperature": 26.3,
+    "humidity": 55.7
+  },
+  {
+    "timestamp": 1793750979090,
+    "gas": 473,
+    "temperature": 25.6,
+    "humidity": 54.1
+  },
+  {
+    "timestamp": 1793750990116,
+    "gas": 365,
+    "temperature": 25.6,
+    "humidity": 55.1
+  },
+  {
+    "timestamp": 1793751013383,
+    "gas": 322,
+    "temperature": 25.8,
+    "humidity": 53.8
+  },
+  {
+    "timestamp": 1793751024392,
+    "gas": 314,
+    "temperature": 26.1,
+    "humidity": 54.6
+  },
+  {
+    "timestamp": 1793751050041,
+    "gas": 255,
+    "temperature": 26,
+    "humidity": 53.9
+  },
+  {
+    "timestamp": 1793751062786,
+    "gas": 257,
+    "temperature": 26,
+    "humidity": 54.5
+  },
+  {
+    "timestamp": 1793751076116,
+    "gas": 254,
+    "temperature": 26.1,
+    "humidity": 54.2
+  },
+  {
+    "timestamp": 1793751089776,
+    "gas": 256,
+    "temperature": 26.1,
+    "humidity": 54.2
+  },
+  {
+    "timestamp": 1793751100096,
+    "gas": 267,
+    "temperature": 26.1,
+    "humidity": 54.2
+  },
+  {
+    "timestamp": 1793751105746,
+    "gas": 268,
+    "temperature": 26.1,
+    "humidity": 54.1
+  },
+  {
+    "timestamp": 1793751117491,
+    "gas": 262,
+    "temperature": 26.1,
+    "humidity": 54
+  },
+  {
+    "timestamp": 1793751126726,
+    "gas": 264,
+    "temperature": 26.2,
+    "humidity": 54
+  },
+  {
+    "timestamp": 1793751137691,
+    "gas": 267,
+    "temperature": 26.1,
+    "humidity": 54
+  },
+  {
+    "timestamp": 1793751150221,
+    "gas": 267,
+    "temperature": 26.2,
+    "humidity": 54.1
+  },
+  {
+    "timestamp": 1793751161806,
+    "gas": 282,
+    "temperature": 26.2,
+    "humidity": 54
+  },
+  {
+    "timestamp": 1793751174384,
+    "gas": 283,
+    "temperature": 26.3,
+    "humidity": 53.8
+  },
+  {
+    "timestamp": 1793751185756,
+    "gas": 283,
+    "temperature": 26.3,
+    "humidity": 53.8
+  },
+  {
+    "timestamp": 1793751197721,
+    "gas": 285,
+    "temperature": 26.3,
+    "humidity": 53.7
+  },
+  {
+    "timestamp": 1793751209716,
+    "gas": 286,
+    "temperature": 26.4,
+    "humidity": 53.8
+  },
+  {
+    "timestamp": 1793751222096,
+    "gas": 286,
+    "temperature": 26.3,
+    "humidity": 53.7
+  },
+  {
+    "timestamp": 1793751234401,
+    "gas": 285,
+    "temperature": 26.6,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751246061,
+    "gas": 288,
+    "temperature": 26.2,
+    "humidity": 53.8
+  },
+  {
+    "timestamp": 1793751257936,
+    "gas": 288,
+    "temperature": 26.2,
+    "humidity": 53.7
+  },
+  {
+    "timestamp": 1793751269966,
+    "gas": 282,
+    "temperature": 26.3,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751282106,
+    "gas": 281,
+    "temperature": 26.4,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751294321,
+    "gas": 290,
+    "temperature": 26.4,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751305946,
+    "gas": 281,
+    "temperature": 26.3,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751318021,
+    "gas": 288,
+    "temperature": 26.2,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751330021,
+    "gas": 283,
+    "temperature": 26.3,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751341981,
+    "gas": 283,
+    "temperature": 26.3,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751354121,
+    "gas": 282,
+    "temperature": 26.3,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751365876,
+    "gas": 286,
+    "temperature": 26.1,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751377821,
+    "gas": 288,
+    "temperature": 26,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751390196,
+    "gas": 284,
+    "temperature": 26.3,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751402356,
+    "gas": 283,
+    "temperature": 26.3,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751414103,
+    "gas": 286,
+    "temperature": 26,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1793751426461,
+    "gas": 284,
+    "temperature": 26.2,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751438591,
+    "gas": 283,
+    "temperature": 26.6,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751449911,
+    "gas": 284,
+    "temperature": 26.3,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751461941,
+    "gas": 293,
+    "temperature": 26.3,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751474081,
+    "gas": 290,
+    "temperature": 26.3,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751486086,
+    "gas": 283,
+    "temperature": 26.6,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751498066,
+    "gas": 288,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751509921,
+    "gas": 284,
+    "temperature": 26.2,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751521886,
+    "gas": 288,
+    "temperature": 26,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751533926,
+    "gas": 288,
+    "temperature": 26.2,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751545926,
+    "gas": 288,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751557916,
+    "gas": 286,
+    "temperature": 26.4,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751569916,
+    "gas": 289,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751581856,
+    "gas": 290,
+    "temperature": 26.6,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751594216,
+    "gas": 286,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751606121,
+    "gas": 289,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751617866,
+    "gas": 295,
+    "temperature": 26.4,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751629926,
+    "gas": 291,
+    "temperature": 26.3,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751642157,
+    "gas": 289,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751653881,
+    "gas": 292,
+    "temperature": 26.2,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1793751665906,
+    "gas": 289,
+    "temperature": 26.3,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751677926,
+    "gas": 290,
+    "temperature": 26.3,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1793751689921,
+    "gas": 292,
+    "temperature": 26.4,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1793751701906,
+    "gas": 290,
+    "temperature": 26.7,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751713991,
+    "gas": 292,
+    "temperature": 26.6,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751726028,
+    "gas": 294,
+    "temperature": 26.3,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751738126,
+    "gas": 293,
+    "temperature": 26.4,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751750016,
+    "gas": 293,
+    "temperature": 26.4,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1793751762306,
+    "gas": 293,
+    "temperature": 26.4,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1793751774001,
+    "gas": 297,
+    "temperature": 26.5,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1793751786061,
+    "gas": 298,
+    "temperature": 26.4,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1793751798151,
+    "gas": 294,
+    "temperature": 26.9,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1793751810166,
+    "gas": 307,
+    "temperature": 26.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1793751821906,
+    "gas": 298,
+    "temperature": 26.4,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795101463443,
+    "gas": 904,
+    "temperature": 23.9,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795101570593,
+    "gas": 1008,
+    "temperature": 24.2,
+    "humidity": 46
+  },
+  {
+    "timestamp": 1795101584288,
+    "gas": 988,
+    "temperature": 23.9,
+    "humidity": 45.8
+  },
+  {
+    "timestamp": 1795101595583,
+    "gas": 961,
+    "temperature": 23.7,
+    "humidity": 45.9
+  },
+  {
+    "timestamp": 1795101606628,
+    "gas": 951,
+    "temperature": 23.5,
+    "humidity": 46.1
+  },
+  {
+    "timestamp": 1795101618688,
+    "gas": 924,
+    "temperature": 23.2,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795101631585,
+    "gas": 871,
+    "temperature": 23,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795101643233,
+    "gas": 841,
+    "temperature": 22.9,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795101655173,
+    "gas": 807,
+    "temperature": 22.7,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795101667223,
+    "gas": 769,
+    "temperature": 22.5,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795101679263,
+    "gas": 732,
+    "temperature": 22.4,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795101691263,
+    "gas": 696,
+    "temperature": 22.2,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795101703293,
+    "gas": 655,
+    "temperature": 22.1,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795101716303,
+    "gas": 631,
+    "temperature": 22,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795101728423,
+    "gas": 600,
+    "temperature": 21.8,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795101738564,
+    "gas": 588,
+    "temperature": 21.8,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795101750063,
+    "gas": 552,
+    "temperature": 21.7,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795101761963,
+    "gas": 538,
+    "temperature": 21.6,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795101773863,
+    "gas": 523,
+    "temperature": 21.6,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795101786475,
+    "gas": 506,
+    "temperature": 21.5,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795101798128,
+    "gas": 494,
+    "temperature": 21.5,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795101815178,
+    "gas": 488,
+    "temperature": 21.4,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795101826038,
+    "gas": 475,
+    "temperature": 21.3,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795101834282,
+    "gas": 470,
+    "temperature": 21.3,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795101846302,
+    "gas": 456,
+    "temperature": 21.2,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795101858263,
+    "gas": 450,
+    "temperature": 21.2,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795101868898,
+    "gas": 442,
+    "temperature": 21.1,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795101881116,
+    "gas": 434,
+    "temperature": 21.1,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795101892463,
+    "gas": 427,
+    "temperature": 21.2,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795101904408,
+    "gas": 417,
+    "temperature": 21,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795101916463,
+    "gas": 412,
+    "temperature": 21,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795101929103,
+    "gas": 403,
+    "temperature": 21,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795101941218,
+    "gas": 399,
+    "temperature": 21.1,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795101953033,
+    "gas": 396,
+    "temperature": 21,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795101966543,
+    "gas": 392,
+    "temperature": 21,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795101979128,
+    "gas": 387,
+    "temperature": 21,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795101986687,
+    "gas": 386,
+    "temperature": 21,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795101998043,
+    "gas": 384,
+    "temperature": 21,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795102011438,
+    "gas": 379,
+    "temperature": 21,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795102022193,
+    "gas": 387,
+    "temperature": 21,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795102034162,
+    "gas": 372,
+    "temperature": 21,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795102046157,
+    "gas": 364,
+    "temperature": 21,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795102058983,
+    "gas": 396,
+    "temperature": 21,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795102070498,
+    "gas": 399,
+    "temperature": 21,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795102082453,
+    "gas": 392,
+    "temperature": 21.1,
+    "humidity": 51.7
+  },
+  {
+    "timestamp": 1795102094477,
+    "gas": 393,
+    "temperature": 21.2,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795102106472,
+    "gas": 386,
+    "temperature": 21.4,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795102118622,
+    "gas": 387,
+    "temperature": 21.5,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795102130653,
+    "gas": 386,
+    "temperature": 21.6,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795102142653,
+    "gas": 370,
+    "temperature": 21.8,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795102154684,
+    "gas": 373,
+    "temperature": 21.9,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795102167122,
+    "gas": 365,
+    "temperature": 22,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795102180315,
+    "gas": 364,
+    "temperature": 22.2,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795102190816,
+    "gas": 368,
+    "temperature": 22.3,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795102206335,
+    "gas": 372,
+    "temperature": 22.4,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795102213140,
+    "gas": 373,
+    "temperature": 22.5,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795102226184,
+    "gas": 366,
+    "temperature": 22.6,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795102239818,
+    "gas": 367,
+    "temperature": 22.7,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795102250434,
+    "gas": 367,
+    "temperature": 22.8,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795102262716,
+    "gas": 365,
+    "temperature": 22.8,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795102272939,
+    "gas": 377,
+    "temperature": 22.9,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795102285336,
+    "gas": 362,
+    "temperature": 23,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795102297338,
+    "gas": 360,
+    "temperature": 23.1,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795102309320,
+    "gas": 367,
+    "temperature": 23.2,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795102322623,
+    "gas": 366,
+    "temperature": 23.2,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795102334688,
+    "gas": 362,
+    "temperature": 23.3,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795102348298,
+    "gas": 360,
+    "temperature": 23.3,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795102355208,
+    "gas": 356,
+    "temperature": 23.5,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795102368352,
+    "gas": 333,
+    "temperature": 23.5,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795102377408,
+    "gas": 344,
+    "temperature": 23.6,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795102397368,
+    "gas": 352,
+    "temperature": 23.6,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795102401667,
+    "gas": 355,
+    "temperature": 23.7,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795102413648,
+    "gas": 357,
+    "temperature": 23.7,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795102425708,
+    "gas": 360,
+    "temperature": 23.8,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795102438168,
+    "gas": 361,
+    "temperature": 23.8,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795102448307,
+    "gas": 357,
+    "temperature": 23.7,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795102460583,
+    "gas": 357,
+    "temperature": 23.9,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795102474778,
+    "gas": 357,
+    "temperature": 23.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795102486471,
+    "gas": 361,
+    "temperature": 23.9,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795102496671,
+    "gas": 356,
+    "temperature": 24,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795102509032,
+    "gas": 360,
+    "temperature": 24.1,
+    "humidity": 48.1
+  },
+  {
+    "timestamp": 1795102521008,
+    "gas": 356,
+    "temperature": 24.2,
+    "humidity": 48.1
+  },
+  {
+    "timestamp": 1795102533028,
+    "gas": 357,
+    "temperature": 24.2,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795102545018,
+    "gas": 369,
+    "temperature": 24.1,
+    "humidity": 47.7
+  },
+  {
+    "timestamp": 1795102557008,
+    "gas": 367,
+    "temperature": 24.2,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795102569038,
+    "gas": 348,
+    "temperature": 24.2,
+    "humidity": 47.6
+  },
+  {
+    "timestamp": 1795102581018,
+    "gas": 354,
+    "temperature": 24.3,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795102593018,
+    "gas": 350,
+    "temperature": 24.2,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795102605048,
+    "gas": 350,
+    "temperature": 24.3,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795102617018,
+    "gas": 352,
+    "temperature": 24.1,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102629028,
+    "gas": 348,
+    "temperature": 24.2,
+    "humidity": 47.7
+  },
+  {
+    "timestamp": 1795102641021,
+    "gas": 351,
+    "temperature": 24.1,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795102653048,
+    "gas": 349,
+    "temperature": 24.3,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795102666128,
+    "gas": 345,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102679383,
+    "gas": 360,
+    "temperature": 24.1,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102689107,
+    "gas": 356,
+    "temperature": 24.3,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102701827,
+    "gas": 354,
+    "temperature": 24.2,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102714757,
+    "gas": 342,
+    "temperature": 24.2,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102725617,
+    "gas": 348,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102739169,
+    "gas": 353,
+    "temperature": 24.3,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795102749719,
+    "gas": 349,
+    "temperature": 24.1,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795102763249,
+    "gas": 346,
+    "temperature": 24.3,
+    "humidity": 47.6
+  },
+  {
+    "timestamp": 1795102777759,
+    "gas": 343,
+    "temperature": 24.5,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795102784969,
+    "gas": 345,
+    "temperature": 24.3,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102797039,
+    "gas": 346,
+    "temperature": 24.3,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102811179,
+    "gas": 338,
+    "temperature": 24.5,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102821799,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102833859,
+    "gas": 341,
+    "temperature": 24.3,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102847700,
+    "gas": 340,
+    "temperature": 24.4,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102857142,
+    "gas": 339,
+    "temperature": 24.4,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102867936,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102879916,
+    "gas": 340,
+    "temperature": 24.4,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102891934,
+    "gas": 336,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102903954,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102915964,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795102928494,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795102939944,
+    "gas": 337,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102951884,
+    "gas": 338,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795102963924,
+    "gas": 337,
+    "temperature": 24.3,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795102975904,
+    "gas": 336,
+    "temperature": 24.3,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795102987929,
+    "gas": 337,
+    "temperature": 24.3,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795102999934,
+    "gas": 336,
+    "temperature": 24.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103011924,
+    "gas": 338,
+    "temperature": 24.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103023904,
+    "gas": 336,
+    "temperature": 24.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103035924,
+    "gas": 333,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103047924,
+    "gas": 343,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103059949,
+    "gas": 340,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103071949,
+    "gas": 339,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103083989,
+    "gas": 340,
+    "temperature": 24.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103096009,
+    "gas": 340,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103108009,
+    "gas": 338,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103119969,
+    "gas": 340,
+    "temperature": 24.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103131949,
+    "gas": 357,
+    "temperature": 24.3,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795103143974,
+    "gas": 337,
+    "temperature": 24.3,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795103157626,
+    "gas": 337,
+    "temperature": 24.4,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795103168019,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795103179949,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103191920,
+    "gas": 334,
+    "temperature": 24.4,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795103203958,
+    "gas": 337,
+    "temperature": 24.4,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795103215950,
+    "gas": 336,
+    "temperature": 24.5,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795103227920,
+    "gas": 336,
+    "temperature": 24.5,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795103239940,
+    "gas": 334,
+    "temperature": 24.6,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795103251950,
+    "gas": 338,
+    "temperature": 24.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103265220,
+    "gas": 331,
+    "temperature": 24.5,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795103275950,
+    "gas": 336,
+    "temperature": 24.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103287980,
+    "gas": 337,
+    "temperature": 24.5,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795103299940,
+    "gas": 336,
+    "temperature": 24.5,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795103311960,
+    "gas": 334,
+    "temperature": 24.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103323960,
+    "gas": 348,
+    "temperature": 24.5,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103335960,
+    "gas": 333,
+    "temperature": 24.4,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103347950,
+    "gas": 331,
+    "temperature": 24.4,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103359950,
+    "gas": 331,
+    "temperature": 24.4,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795103372010,
+    "gas": 339,
+    "temperature": 24.4,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103385680,
+    "gas": 333,
+    "temperature": 24.4,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103395950,
+    "gas": 333,
+    "temperature": 24.4,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103407994,
+    "gas": 330,
+    "temperature": 24.3,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795103421724,
+    "gas": 327,
+    "temperature": 24.3,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103431959,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103445899,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103460869,
+    "gas": 328,
+    "temperature": 24.3,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103474314,
+    "gas": 329,
+    "temperature": 24.3,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103483504,
+    "gas": 330,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103492669,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103505374,
+    "gas": 332,
+    "temperature": 24.2,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795103517464,
+    "gas": 331,
+    "temperature": 24.2,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103529464,
+    "gas": 330,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103541391,
+    "gas": 328,
+    "temperature": 24.2,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103554036,
+    "gas": 329,
+    "temperature": 24.2,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103565551,
+    "gas": 330,
+    "temperature": 24.2,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795103577596,
+    "gas": 330,
+    "temperature": 24.2,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103591096,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795103609051,
+    "gas": 332,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795103615561,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103624281,
+    "gas": 333,
+    "temperature": 24.3,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795103635301,
+    "gas": 328,
+    "temperature": 24.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103648376,
+    "gas": 336,
+    "temperature": 24.3,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795103670656,
+    "gas": 332,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103686396,
+    "gas": 330,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103691741,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103699011,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103712881,
+    "gas": 329,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103727076,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103735601,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103741476,
+    "gas": 331,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103760151,
+    "gas": 329,
+    "temperature": 24.4,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103774907,
+    "gas": 332,
+    "temperature": 24.4,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103783120,
+    "gas": 330,
+    "temperature": 24.4,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103794781,
+    "gas": 331,
+    "temperature": 24.4,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103805417,
+    "gas": 329,
+    "temperature": 24.4,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103814971,
+    "gas": 328,
+    "temperature": 24.4,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103826726,
+    "gas": 331,
+    "temperature": 24.4,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103836406,
+    "gas": 336,
+    "temperature": 24.5,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795103849186,
+    "gas": 333,
+    "temperature": 24.4,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795103859746,
+    "gas": 331,
+    "temperature": 24.4,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795103871621,
+    "gas": 336,
+    "temperature": 24.5,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103884276,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103895556,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795103908510,
+    "gas": 336,
+    "temperature": 24.4,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795103919891,
+    "gas": 341,
+    "temperature": 24.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795103931596,
+    "gas": 340,
+    "temperature": 24.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795103943857,
+    "gas": 340,
+    "temperature": 24.4,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795103955901,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103967876,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795103979906,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795103991876,
+    "gas": 341,
+    "temperature": 24.4,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104003916,
+    "gas": 341,
+    "temperature": 24.3,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104017866,
+    "gas": 340,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104028316,
+    "gas": 341,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104040492,
+    "gas": 345,
+    "temperature": 24.3,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104052906,
+    "gas": 343,
+    "temperature": 24.3,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104064206,
+    "gas": 345,
+    "temperature": 24.3,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104076002,
+    "gas": 349,
+    "temperature": 24.3,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104089726,
+    "gas": 352,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104100585,
+    "gas": 355,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104112595,
+    "gas": 361,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104124575,
+    "gas": 358,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104136575,
+    "gas": 357,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104148576,
+    "gas": 357,
+    "temperature": 24.3,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104160573,
+    "gas": 357,
+    "temperature": 24.2,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104172585,
+    "gas": 358,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104184606,
+    "gas": 357,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104197225,
+    "gas": 356,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104208734,
+    "gas": 355,
+    "temperature": 24.2,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104220877,
+    "gas": 356,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104233595,
+    "gas": 355,
+    "temperature": 24.2,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104246145,
+    "gas": 355,
+    "temperature": 24.2,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104257451,
+    "gas": 354,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104270156,
+    "gas": 353,
+    "temperature": 24.2,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104286899,
+    "gas": 354,
+    "temperature": 24.2,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104301667,
+    "gas": 352,
+    "temperature": 24.2,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795104311984,
+    "gas": 354,
+    "temperature": 24.2,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104324154,
+    "gas": 351,
+    "temperature": 24.1,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104336384,
+    "gas": 351,
+    "temperature": 24.1,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104348769,
+    "gas": 350,
+    "temperature": 24.1,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104370944,
+    "gas": 348,
+    "temperature": 24.1,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104377935,
+    "gas": 348,
+    "temperature": 24.1,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104424653,
+    "gas": 346,
+    "temperature": 24.1,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795104438993,
+    "gas": 342,
+    "temperature": 24,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104447753,
+    "gas": 346,
+    "temperature": 24,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104460628,
+    "gas": 346,
+    "temperature": 23.9,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104470143,
+    "gas": 344,
+    "temperature": 23.9,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104482733,
+    "gas": 344,
+    "temperature": 23.9,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104493973,
+    "gas": 345,
+    "temperature": 23.9,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104506039,
+    "gas": 345,
+    "temperature": 23.9,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104518103,
+    "gas": 346,
+    "temperature": 23.9,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104531433,
+    "gas": 345,
+    "temperature": 23.9,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104542463,
+    "gas": 346,
+    "temperature": 23.9,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104646193,
+    "gas": 344,
+    "temperature": 23.9,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104669453,
+    "gas": 345,
+    "temperature": 23.9,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795104676553,
+    "gas": 345,
+    "temperature": 23.9,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104684543,
+    "gas": 344,
+    "temperature": 23.9,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104695373,
+    "gas": 343,
+    "temperature": 23.8,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104778916,
+    "gas": 344,
+    "temperature": 23.8,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104789136,
+    "gas": 346,
+    "temperature": 23.8,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104801126,
+    "gas": 345,
+    "temperature": 23.8,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104817686,
+    "gas": 345,
+    "temperature": 23.7,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104823476,
+    "gas": 343,
+    "temperature": 23.7,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104836046,
+    "gas": 344,
+    "temperature": 23.7,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104847696,
+    "gas": 344,
+    "temperature": 23.6,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104859736,
+    "gas": 345,
+    "temperature": 23.6,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104876496,
+    "gas": 344,
+    "temperature": 23.6,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104886956,
+    "gas": 344,
+    "temperature": 23.6,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795104896976,
+    "gas": 343,
+    "temperature": 23.5,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795104945955,
+    "gas": 344,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104957700,
+    "gas": 343,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104969985,
+    "gas": 343,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104982265,
+    "gas": 344,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795104995115,
+    "gas": 344,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105005755,
+    "gas": 344,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105017595,
+    "gas": 343,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105029655,
+    "gas": 346,
+    "temperature": 23.5,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105041660,
+    "gas": 344,
+    "temperature": 23.5,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105054115,
+    "gas": 343,
+    "temperature": 23.5,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105065773,
+    "gas": 344,
+    "temperature": 23.5,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105077835,
+    "gas": 340,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105089663,
+    "gas": 343,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105102035,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105113715,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105125815,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105142975,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105149535,
+    "gas": 343,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105161760,
+    "gas": 342,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105174300,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105185855,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105211646,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105214720,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105221740,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105233590,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105245700,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105266942,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105316363,
+    "gas": 341,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105326103,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105338088,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105350108,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105362048,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105374086,
+    "gas": 345,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795105386101,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795105398551,
+    "gas": 344,
+    "temperature": 23.4,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795151425472,
+    "gas": 960,
+    "temperature": 23.2,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795151436782,
+    "gas": 847,
+    "temperature": 23.3,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795151449432,
+    "gas": 757,
+    "temperature": 23.3,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151461972,
+    "gas": 694,
+    "temperature": 23.3,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151472683,
+    "gas": 588,
+    "temperature": 23.2,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151484682,
+    "gas": 526,
+    "temperature": 23.2,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151496897,
+    "gas": 480,
+    "temperature": 23.2,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795151510111,
+    "gas": 439,
+    "temperature": 23.2,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795151521312,
+    "gas": 400,
+    "temperature": 23.2,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151533052,
+    "gas": 384,
+    "temperature": 23.2,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151553047,
+    "gas": 368,
+    "temperature": 23.2,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151563322,
+    "gas": 355,
+    "temperature": 23.2,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795151568297,
+    "gas": 349,
+    "temperature": 23.2,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795151579521,
+    "gas": 348,
+    "temperature": 23.2,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795151591492,
+    "gas": 343,
+    "temperature": 23.2,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795151603641,
+    "gas": 340,
+    "temperature": 23.2,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151615522,
+    "gas": 339,
+    "temperature": 23.2,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795151629046,
+    "gas": 334,
+    "temperature": 23.2,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151639561,
+    "gas": 334,
+    "temperature": 23.2,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151655742,
+    "gas": 331,
+    "temperature": 23.1,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151663602,
+    "gas": 329,
+    "temperature": 23.1,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795151677282,
+    "gas": 322,
+    "temperature": 23.1,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795151687711,
+    "gas": 326,
+    "temperature": 23.1,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795151700232,
+    "gas": 320,
+    "temperature": 23.1,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151712972,
+    "gas": 322,
+    "temperature": 23.1,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795151725711,
+    "gas": 322,
+    "temperature": 23.1,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151735571,
+    "gas": 320,
+    "temperature": 23.1,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795151749571,
+    "gas": 322,
+    "temperature": 23.1,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795151759631,
+    "gas": 324,
+    "temperature": 23.1,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795151773381,
+    "gas": 319,
+    "temperature": 23.1,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795151785376,
+    "gas": 318,
+    "temperature": 23.1,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795151795732,
+    "gas": 320,
+    "temperature": 23,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795151814161,
+    "gas": 321,
+    "temperature": 23.1,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795151819641,
+    "gas": 318,
+    "temperature": 23.1,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795151833021,
+    "gas": 318,
+    "temperature": 23,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795151843641,
+    "gas": 315,
+    "temperature": 23,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795151855636,
+    "gas": 316,
+    "temperature": 23,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795151868006,
+    "gas": 315,
+    "temperature": 23,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795151879661,
+    "gas": 314,
+    "temperature": 23,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795151891711,
+    "gas": 314,
+    "temperature": 22.9,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795151903681,
+    "gas": 312,
+    "temperature": 23.2,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795151915661,
+    "gas": 308,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795151927681,
+    "gas": 313,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795151939656,
+    "gas": 309,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795151953581,
+    "gas": 313,
+    "temperature": 22.9,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795151966475,
+    "gas": 309,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795151977705,
+    "gas": 309,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795151989051,
+    "gas": 306,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795152002991,
+    "gas": 305,
+    "temperature": 22.8,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795152012771,
+    "gas": 305,
+    "temperature": 22.9,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795152024001,
+    "gas": 305,
+    "temperature": 22.9,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795152035951,
+    "gas": 301,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152048151,
+    "gas": 300,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152146108,
+    "gas": 301,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152147047,
+    "gas": 302,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152157017,
+    "gas": 303,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152169217,
+    "gas": 301,
+    "temperature": 22.9,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795152180917,
+    "gas": 303,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152192737,
+    "gas": 301,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795152204747,
+    "gas": 301,
+    "temperature": 22.8,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795152216937,
+    "gas": 289,
+    "temperature": 22.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795165658074,
+    "gas": 588,
+    "temperature": 22.2,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795165668964,
+    "gas": 536,
+    "temperature": 22.4,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795165680984,
+    "gas": 462,
+    "temperature": 22.5,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795165694497,
+    "gas": 429,
+    "temperature": 22.5,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795165704984,
+    "gas": 406,
+    "temperature": 22.6,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795165726087,
+    "gas": 402,
+    "temperature": 22.6,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795168101453,
+    "gas": 355,
+    "temperature": 23.8,
+    "humidity": 46.1
+  },
+  {
+    "timestamp": 1795168113512,
+    "gas": 354,
+    "temperature": 23.8,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795168125492,
+    "gas": 355,
+    "temperature": 23.8,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795168139918,
+    "gas": 362,
+    "temperature": 23.8,
+    "humidity": 46.8
+  },
+  {
+    "timestamp": 1795168149292,
+    "gas": 375,
+    "temperature": 23.8,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795168161322,
+    "gas": 363,
+    "temperature": 23.8,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795168175867,
+    "gas": 366,
+    "temperature": 23.9,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795168188762,
+    "gas": 367,
+    "temperature": 23.9,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795168203943,
+    "gas": 362,
+    "temperature": 23.9,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795168210842,
+    "gas": 364,
+    "temperature": 23.9,
+    "humidity": 46.1
+  },
+  {
+    "timestamp": 1795168223652,
+    "gas": 386,
+    "temperature": 24,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795168238197,
+    "gas": 354,
+    "temperature": 24,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795168246408,
+    "gas": 343,
+    "temperature": 24.1,
+    "humidity": 46.4
+  },
+  {
+    "timestamp": 1795168261333,
+    "gas": 340,
+    "temperature": 24.1,
+    "humidity": 46
+  },
+  {
+    "timestamp": 1795168271262,
+    "gas": 331,
+    "temperature": 24.1,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795168282458,
+    "gas": 329,
+    "temperature": 24.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795168294392,
+    "gas": 324,
+    "temperature": 24.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795168307037,
+    "gas": 321,
+    "temperature": 24.3,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795168325938,
+    "gas": 317,
+    "temperature": 24.3,
+    "humidity": 44.9
+  },
+  {
+    "timestamp": 1795168336593,
+    "gas": 327,
+    "temperature": 24.4,
+    "humidity": 45.4
+  },
+  {
+    "timestamp": 1795168349219,
+    "gas": 320,
+    "temperature": 24.4,
+    "humidity": 44.8
+  },
+  {
+    "timestamp": 1795168361413,
+    "gas": 320,
+    "temperature": 24.5,
+    "humidity": 44
+  },
+  {
+    "timestamp": 1795168373078,
+    "gas": 318,
+    "temperature": 24.5,
+    "humidity": 44.2
+  },
+  {
+    "timestamp": 1795168384778,
+    "gas": 319,
+    "temperature": 24.5,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795168402768,
+    "gas": 317,
+    "temperature": 24.4,
+    "humidity": 44.5
+  },
+  {
+    "timestamp": 1795168420818,
+    "gas": 318,
+    "temperature": 24.5,
+    "humidity": 44.6
+  },
+  {
+    "timestamp": 1795168462715,
+    "gas": 349,
+    "temperature": 24.4,
+    "humidity": 44.4
+  },
+  {
+    "timestamp": 1795168475380,
+    "gas": 361,
+    "temperature": 24.4,
+    "humidity": 45.3
+  },
+  {
+    "timestamp": 1795168495454,
+    "gas": 356,
+    "temperature": 24.4,
+    "humidity": 45.6
+  },
+  {
+    "timestamp": 1795168506670,
+    "gas": 351,
+    "temperature": 24.5,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168511280,
+    "gas": 355,
+    "temperature": 24.5,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168525045,
+    "gas": 351,
+    "temperature": 24.5,
+    "humidity": 45.2
+  },
+  {
+    "timestamp": 1795168545650,
+    "gas": 353,
+    "temperature": 24.5,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168558095,
+    "gas": 346,
+    "temperature": 24.5,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795168577570,
+    "gas": 349,
+    "temperature": 24.6,
+    "humidity": 44.6
+  },
+  {
+    "timestamp": 1795168598216,
+    "gas": 346,
+    "temperature": 24.6,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795168620641,
+    "gas": 343,
+    "temperature": 24.6,
+    "humidity": 44.5
+  },
+  {
+    "timestamp": 1795168655862,
+    "gas": 326,
+    "temperature": 24.5,
+    "humidity": 44
+  },
+  {
+    "timestamp": 1795168668372,
+    "gas": 341,
+    "temperature": 24.5,
+    "humidity": 44.9
+  },
+  {
+    "timestamp": 1795168685075,
+    "gas": 356,
+    "temperature": 24.6,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168697572,
+    "gas": 354,
+    "temperature": 24.6,
+    "humidity": 45.4
+  },
+  {
+    "timestamp": 1795168704307,
+    "gas": 354,
+    "temperature": 24.6,
+    "humidity": 45.4
+  },
+  {
+    "timestamp": 1795168714068,
+    "gas": 346,
+    "temperature": 24.6,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168726337,
+    "gas": 342,
+    "temperature": 24.5,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795168738048,
+    "gas": 344,
+    "temperature": 24.6,
+    "humidity": 44.3
+  },
+  {
+    "timestamp": 1795168749967,
+    "gas": 338,
+    "temperature": 24.6,
+    "humidity": 44.2
+  },
+  {
+    "timestamp": 1795168762067,
+    "gas": 337,
+    "temperature": 24.6,
+    "humidity": 43.9
+  },
+  {
+    "timestamp": 1795168774068,
+    "gas": 342,
+    "temperature": 24.6,
+    "humidity": 44.1
+  },
+  {
+    "timestamp": 1795168786047,
+    "gas": 341,
+    "temperature": 24.6,
+    "humidity": 44.8
+  },
+  {
+    "timestamp": 1795168797970,
+    "gas": 339,
+    "temperature": 24.6,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168809990,
+    "gas": 338,
+    "temperature": 24.6,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168822110,
+    "gas": 336,
+    "temperature": 24.6,
+    "humidity": 45.3
+  },
+  {
+    "timestamp": 1795168834050,
+    "gas": 337,
+    "temperature": 24.6,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168846041,
+    "gas": 337,
+    "temperature": 24.7,
+    "humidity": 44.5
+  },
+  {
+    "timestamp": 1795168858010,
+    "gas": 332,
+    "temperature": 24.7,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795168870071,
+    "gas": 331,
+    "temperature": 24.7,
+    "humidity": 43.5
+  },
+  {
+    "timestamp": 1795168882050,
+    "gas": 336,
+    "temperature": 24.7,
+    "humidity": 44
+  },
+  {
+    "timestamp": 1795168894092,
+    "gas": 329,
+    "temperature": 24.7,
+    "humidity": 44.2
+  },
+  {
+    "timestamp": 1795168906152,
+    "gas": 334,
+    "temperature": 24.7,
+    "humidity": 43.6
+  },
+  {
+    "timestamp": 1795168918092,
+    "gas": 332,
+    "temperature": 24.7,
+    "humidity": 44.9
+  },
+  {
+    "timestamp": 1795168930048,
+    "gas": 333,
+    "temperature": 24.7,
+    "humidity": 45.2
+  },
+  {
+    "timestamp": 1795168942068,
+    "gas": 339,
+    "temperature": 24.7,
+    "humidity": 45.1
+  },
+  {
+    "timestamp": 1795168954068,
+    "gas": 337,
+    "temperature": 24.8,
+    "humidity": 45
+  },
+  {
+    "timestamp": 1795168970870,
+    "gas": 331,
+    "temperature": 24.7,
+    "humidity": 44.3
+  },
+  {
+    "timestamp": 1795168981710,
+    "gas": 339,
+    "temperature": 24.8,
+    "humidity": 45.2
+  },
+  {
+    "timestamp": 1795168993690,
+    "gas": 337,
+    "temperature": 24.7,
+    "humidity": 44.9
+  },
+  {
+    "timestamp": 1795169005820,
+    "gas": 338,
+    "temperature": 24.7,
+    "humidity": 44.8
+  },
+  {
+    "timestamp": 1795169017710,
+    "gas": 336,
+    "temperature": 24.7,
+    "humidity": 44.9
+  },
+  {
+    "timestamp": 1795169029955,
+    "gas": 338,
+    "temperature": 24.7,
+    "humidity": 45
+  },
+  {
+    "timestamp": 1795169039990,
+    "gas": 336,
+    "temperature": 24.7,
+    "humidity": 45
+  },
+  {
+    "timestamp": 1795169050950,
+    "gas": 403,
+    "temperature": 24.7,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795169062670,
+    "gas": 380,
+    "temperature": 24.7,
+    "humidity": 43.3
+  },
+  {
+    "timestamp": 1795169074926,
+    "gas": 378,
+    "temperature": 24.6,
+    "humidity": 42.8
+  },
+  {
+    "timestamp": 1795169086860,
+    "gas": 376,
+    "temperature": 24.7,
+    "humidity": 43.3
+  },
+  {
+    "timestamp": 1795169098950,
+    "gas": 369,
+    "temperature": 24.4,
+    "humidity": 43.8
+  },
+  {
+    "timestamp": 1795169110910,
+    "gas": 374,
+    "temperature": 24.3,
+    "humidity": 43.6
+  },
+  {
+    "timestamp": 1795169124303,
+    "gas": 372,
+    "temperature": 24.2,
+    "humidity": 43.7
+  },
+  {
+    "timestamp": 1795169135080,
+    "gas": 376,
+    "temperature": 24.3,
+    "humidity": 43.4
+  },
+  {
+    "timestamp": 1795169147110,
+    "gas": 370,
+    "temperature": 24.3,
+    "humidity": 43.3
+  },
+  {
+    "timestamp": 1795169159470,
+    "gas": 382,
+    "temperature": 24.3,
+    "humidity": 43.2
+  },
+  {
+    "timestamp": 1795169171070,
+    "gas": 375,
+    "temperature": 24.3,
+    "humidity": 43.4
+  },
+  {
+    "timestamp": 1795169183010,
+    "gas": 380,
+    "temperature": 24.3,
+    "humidity": 43.4
+  },
+  {
+    "timestamp": 1795169195030,
+    "gas": 380,
+    "temperature": 24.3,
+    "humidity": 43.3
+  },
+  {
+    "timestamp": 1795169208860,
+    "gas": 379,
+    "temperature": 24.4,
+    "humidity": 43.2
+  },
+  {
+    "timestamp": 1795169219030,
+    "gas": 377,
+    "temperature": 24.5,
+    "humidity": 43
+  },
+  {
+    "timestamp": 1795169231010,
+    "gas": 374,
+    "temperature": 24.4,
+    "humidity": 43.2
+  },
+  {
+    "timestamp": 1795169243070,
+    "gas": 381,
+    "temperature": 24.3,
+    "humidity": 42.9
+  },
+  {
+    "timestamp": 1795169524043,
+    "gas": 360,
+    "temperature": 25.1,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795169534993,
+    "gas": 436,
+    "temperature": 25.5,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795169547174,
+    "gas": 496,
+    "temperature": 25.8,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795169561224,
+    "gas": 486,
+    "temperature": 26,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795169571293,
+    "gas": 413,
+    "temperature": 26.1,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795169583283,
+    "gas": 403,
+    "temperature": 26.3,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795169595254,
+    "gas": 394,
+    "temperature": 26.4,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795169607633,
+    "gas": 466,
+    "temperature": 26.6,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795169619426,
+    "gas": 449,
+    "temperature": 26.7,
+    "humidity": 46
+  },
+  {
+    "timestamp": 1795169631463,
+    "gas": 422,
+    "temperature": 26.8,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795169643414,
+    "gas": 424,
+    "temperature": 27,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795169655393,
+    "gas": 416,
+    "temperature": 27,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795169667444,
+    "gas": 418,
+    "temperature": 27.1,
+    "humidity": 46.1
+  },
+  {
+    "timestamp": 1795169679754,
+    "gas": 412,
+    "temperature": 27.2,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795169691834,
+    "gas": 406,
+    "temperature": 27.2,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795169702233,
+    "gas": 403,
+    "temperature": 27.2,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795169715814,
+    "gas": 414,
+    "temperature": 27.2,
+    "humidity": 47
+  },
+  {
+    "timestamp": 1795169729183,
+    "gas": 403,
+    "temperature": 27.2,
+    "humidity": 48.1
+  },
+  {
+    "timestamp": 1795169739393,
+    "gas": 415,
+    "temperature": 27.3,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795169752694,
+    "gas": 413,
+    "temperature": 27.4,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795169763795,
+    "gas": 417,
+    "temperature": 27.5,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795169775804,
+    "gas": 428,
+    "temperature": 27.6,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795169787783,
+    "gas": 442,
+    "temperature": 27.6,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795169802444,
+    "gas": 429,
+    "temperature": 27.6,
+    "humidity": 47.1
+  },
+  {
+    "timestamp": 1795169811924,
+    "gas": 414,
+    "temperature": 27.6,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795169823934,
+    "gas": 415,
+    "temperature": 27.6,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795169846125,
+    "gas": 434,
+    "temperature": 27.4,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795169857090,
+    "gas": 425,
+    "temperature": 27,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795169869120,
+    "gas": 417,
+    "temperature": 26.9,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795169881075,
+    "gas": 415,
+    "temperature": 26.7,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795169893255,
+    "gas": 416,
+    "temperature": 26.6,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795169905085,
+    "gas": 401,
+    "temperature": 26.4,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795169917045,
+    "gas": 399,
+    "temperature": 26.3,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795169929066,
+    "gas": 402,
+    "temperature": 26.2,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795169941126,
+    "gas": 400,
+    "temperature": 26.2,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795169953711,
+    "gas": 401,
+    "temperature": 26.2,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795169965756,
+    "gas": 401,
+    "temperature": 26.4,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795169979271,
+    "gas": 394,
+    "temperature": 26.5,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795169990376,
+    "gas": 398,
+    "temperature": 26.7,
+    "humidity": 51.7
+  },
+  {
+    "timestamp": 1795170003296,
+    "gas": 399,
+    "temperature": 27,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795170030955,
+    "gas": 385,
+    "temperature": 27.2,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795170043205,
+    "gas": 389,
+    "temperature": 27.4,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795170053485,
+    "gas": 367,
+    "temperature": 27.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795170064585,
+    "gas": 373,
+    "temperature": 27.3,
+    "humidity": 47.7
+  },
+  {
+    "timestamp": 1795170078365,
+    "gas": 404,
+    "temperature": 27.3,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795170090625,
+    "gas": 360,
+    "temperature": 27.2,
+    "humidity": 45.8
+  },
+  {
+    "timestamp": 1795170101315,
+    "gas": 440,
+    "temperature": 27,
+    "humidity": 46.2
+  },
+  {
+    "timestamp": 1795170123406,
+    "gas": 381,
+    "temperature": 27.1,
+    "humidity": 47.7
+  },
+  {
+    "timestamp": 1795170134416,
+    "gas": 377,
+    "temperature": 27.5,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795170146476,
+    "gas": 365,
+    "temperature": 27.7,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795170158446,
+    "gas": 358,
+    "temperature": 27.9,
+    "humidity": 44.5
+  },
+  {
+    "timestamp": 1795170170476,
+    "gas": 352,
+    "temperature": 28,
+    "humidity": 44.7
+  },
+  {
+    "timestamp": 1795170182466,
+    "gas": 341,
+    "temperature": 28,
+    "humidity": 44.5
+  },
+  {
+    "timestamp": 1795170209857,
+    "gas": 353,
+    "temperature": 28,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795170220829,
+    "gas": 349,
+    "temperature": 28.2,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795170232887,
+    "gas": 345,
+    "temperature": 28.3,
+    "humidity": 47.7
+  },
+  {
+    "timestamp": 1795170244843,
+    "gas": 340,
+    "temperature": 28.3,
+    "humidity": 47.6
+  },
+  {
+    "timestamp": 1795170258333,
+    "gas": 340,
+    "temperature": 28.2,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795170270313,
+    "gas": 341,
+    "temperature": 28.1,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795170282325,
+    "gas": 340,
+    "temperature": 28.2,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795170292885,
+    "gas": 339,
+    "temperature": 28.2,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795170306325,
+    "gas": 340,
+    "temperature": 28.3,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795170318336,
+    "gas": 336,
+    "temperature": 28.4,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795170328885,
+    "gas": 337,
+    "temperature": 28.4,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795170340845,
+    "gas": 338,
+    "temperature": 28.4,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795170352826,
+    "gas": 337,
+    "temperature": 28.3,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795170364845,
+    "gas": 337,
+    "temperature": 28.2,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795170376875,
+    "gas": 337,
+    "temperature": 28.2,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795170388889,
+    "gas": 338,
+    "temperature": 28,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795170400836,
+    "gas": 337,
+    "temperature": 28.1,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795170514282,
+    "gas": 354,
+    "temperature": 25.5,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795170525252,
+    "gas": 365,
+    "temperature": 25.4,
+    "humidity": 46.9
+  },
+  {
+    "timestamp": 1795170537222,
+    "gas": 365,
+    "temperature": 25.5,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795170549222,
+    "gas": 364,
+    "temperature": 25.8,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795170561227,
+    "gas": 364,
+    "temperature": 26,
+    "humidity": 51.7
+  },
+  {
+    "timestamp": 1795170573222,
+    "gas": 363,
+    "temperature": 26.1,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795170585202,
+    "gas": 363,
+    "temperature": 26.4,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795170597192,
+    "gas": 364,
+    "temperature": 26.5,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795170609212,
+    "gas": 361,
+    "temperature": 26.5,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795170621182,
+    "gas": 361,
+    "temperature": 26.6,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795170633222,
+    "gas": 360,
+    "temperature": 26.7,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795170645318,
+    "gas": 361,
+    "temperature": 26.7,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795170657462,
+    "gas": 360,
+    "temperature": 26.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795170669192,
+    "gas": 360,
+    "temperature": 26.7,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795170681212,
+    "gas": 363,
+    "temperature": 26.7,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795170693232,
+    "gas": 363,
+    "temperature": 26.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795170705242,
+    "gas": 363,
+    "temperature": 26.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795170717312,
+    "gas": 362,
+    "temperature": 26.4,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795170729452,
+    "gas": 363,
+    "temperature": 26.3,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795170741192,
+    "gas": 361,
+    "temperature": 26.3,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795170753202,
+    "gas": 361,
+    "temperature": 26.4,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795170765212,
+    "gas": 362,
+    "temperature": 26.4,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795170777212,
+    "gas": 361,
+    "temperature": 26.6,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795170789902,
+    "gas": 358,
+    "temperature": 26.7,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795170801382,
+    "gas": 358,
+    "temperature": 26.8,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795170813392,
+    "gas": 357,
+    "temperature": 26.9,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795170825382,
+    "gas": 355,
+    "temperature": 27,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795170837412,
+    "gas": 360,
+    "temperature": 27.1,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795170849437,
+    "gas": 361,
+    "temperature": 27.2,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795170861413,
+    "gas": 360,
+    "temperature": 27.2,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795170873392,
+    "gas": 361,
+    "temperature": 27.2,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795170885682,
+    "gas": 362,
+    "temperature": 27,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795170897424,
+    "gas": 361,
+    "temperature": 27.1,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795170909422,
+    "gas": 363,
+    "temperature": 27.2,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795170921432,
+    "gas": 358,
+    "temperature": 27.4,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795170933402,
+    "gas": 357,
+    "temperature": 27.5,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795170945432,
+    "gas": 356,
+    "temperature": 27.7,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795170957452,
+    "gas": 356,
+    "temperature": 27.7,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795170969402,
+    "gas": 355,
+    "temperature": 27.8,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795170981453,
+    "gas": 357,
+    "temperature": 27.8,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795170993422,
+    "gas": 355,
+    "temperature": 27.8,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795171009167,
+    "gas": 355,
+    "temperature": 27.7,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795171020278,
+    "gas": 355,
+    "temperature": 27.5,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795171030373,
+    "gas": 355,
+    "temperature": 27.5,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795171042562,
+    "gas": 355,
+    "temperature": 27.5,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795171055572,
+    "gas": 356,
+    "temperature": 27.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795171065842,
+    "gas": 356,
+    "temperature": 27.5,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795171076117,
+    "gas": 356,
+    "temperature": 27.5,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795171089407,
+    "gas": 357,
+    "temperature": 27.6,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795171101612,
+    "gas": 355,
+    "temperature": 27.6,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795171113083,
+    "gas": 356,
+    "temperature": 27.4,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795171125263,
+    "gas": 355,
+    "temperature": 27.4,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795171136903,
+    "gas": 355,
+    "temperature": 27.3,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795171148903,
+    "gas": 356,
+    "temperature": 27.2,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795171161445,
+    "gas": 355,
+    "temperature": 27.3,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795171177122,
+    "gas": 354,
+    "temperature": 27.3,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795171187358,
+    "gas": 351,
+    "temperature": 27.4,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795171198169,
+    "gas": 355,
+    "temperature": 27.5,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795171212937,
+    "gas": 355,
+    "temperature": 27.5,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795171222521,
+    "gas": 355,
+    "temperature": 27.4,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795171234307,
+    "gas": 351,
+    "temperature": 27.3,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795171246366,
+    "gas": 351,
+    "temperature": 27.3,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795171259271,
+    "gas": 351,
+    "temperature": 27.3,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795171270426,
+    "gas": 354,
+    "temperature": 27.4,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795171285446,
+    "gas": 353,
+    "temperature": 27.4,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795171294756,
+    "gas": 350,
+    "temperature": 27.4,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795171306952,
+    "gas": 348,
+    "temperature": 27.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795171319927,
+    "gas": 349,
+    "temperature": 27.1,
+    "humidity": 48.7
+  },
+  {
+    "timestamp": 1795171338182,
+    "gas": 350,
+    "temperature": 27.1,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795171343594,
+    "gas": 345,
+    "temperature": 27.1,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795171355679,
+    "gas": 346,
+    "temperature": 27.2,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795171367355,
+    "gas": 344,
+    "temperature": 27.3,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795171377762,
+    "gas": 348,
+    "temperature": 27.2,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795171390802,
+    "gas": 346,
+    "temperature": 27.3,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795171403282,
+    "gas": 349,
+    "temperature": 27.2,
+    "humidity": 48.4
+  },
+  {
+    "timestamp": 1795171419092,
+    "gas": 350,
+    "temperature": 27.2,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795197081846,
+    "gas": 339,
+    "temperature": 23,
+    "humidity": 54.9
+  },
+  {
+    "timestamp": 1795197098806,
+    "gas": 312,
+    "temperature": 23.2,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795197109647,
+    "gas": 298,
+    "temperature": 23.5,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795197117006,
+    "gas": 290,
+    "temperature": 23.2,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795197129116,
+    "gas": 285,
+    "temperature": 23.8,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795197145656,
+    "gas": 285,
+    "temperature": 23.5,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795197153526,
+    "gas": 282,
+    "temperature": 23.2,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795197173998,
+    "gas": 289,
+    "temperature": 23.6,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795197183942,
+    "gas": 290,
+    "temperature": 23.6,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795197195102,
+    "gas": 297,
+    "temperature": 23.7,
+    "humidity": 52.2
+  },
+  {
+    "timestamp": 1795197202952,
+    "gas": 297,
+    "temperature": 23.7,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795197223546,
+    "gas": 288,
+    "temperature": 23.8,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795197235871,
+    "gas": 286,
+    "temperature": 23.8,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795197243901,
+    "gas": 284,
+    "temperature": 23.8,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795197259041,
+    "gas": 253,
+    "temperature": 23.9,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795197268721,
+    "gas": 283,
+    "temperature": 23.6,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795197279371,
+    "gas": 284,
+    "temperature": 23.8,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795197290611,
+    "gas": 282,
+    "temperature": 23.9,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795197301801,
+    "gas": 279,
+    "temperature": 23.6,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795197313770,
+    "gas": 283,
+    "temperature": 23.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197325511,
+    "gas": 282,
+    "temperature": 23.9,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795197343385,
+    "gas": 284,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197350590,
+    "gas": 284,
+    "temperature": 23.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197366570,
+    "gas": 288,
+    "temperature": 24,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197374218,
+    "gas": 289,
+    "temperature": 23.9,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197386408,
+    "gas": 291,
+    "temperature": 23.8,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795197401288,
+    "gas": 292,
+    "temperature": 23.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197411751,
+    "gas": 294,
+    "temperature": 23.6,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795197430351,
+    "gas": 296,
+    "temperature": 23.9,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795197441779,
+    "gas": 296,
+    "temperature": 24,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795197454200,
+    "gas": 300,
+    "temperature": 24.2,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197460593,
+    "gas": 297,
+    "temperature": 23.9,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197472571,
+    "gas": 298,
+    "temperature": 23.9,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795197484396,
+    "gas": 300,
+    "temperature": 24,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795197495848,
+    "gas": 301,
+    "temperature": 24.1,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197510989,
+    "gas": 301,
+    "temperature": 24.2,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197522019,
+    "gas": 303,
+    "temperature": 24,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197534176,
+    "gas": 304,
+    "temperature": 24,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197546073,
+    "gas": 305,
+    "temperature": 23.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197556262,
+    "gas": 307,
+    "temperature": 24.1,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197565409,
+    "gas": 307,
+    "temperature": 24.1,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197576710,
+    "gas": 307,
+    "temperature": 24.2,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197586283,
+    "gas": 307,
+    "temperature": 24.1,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197600154,
+    "gas": 308,
+    "temperature": 24.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795197610545,
+    "gas": 308,
+    "temperature": 24.2,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197628138,
+    "gas": 310,
+    "temperature": 24,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197636708,
+    "gas": 308,
+    "temperature": 24.1,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197653323,
+    "gas": 308,
+    "temperature": 24.1,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197663352,
+    "gas": 309,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197673618,
+    "gas": 310,
+    "temperature": 24.1,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197684845,
+    "gas": 314,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197697953,
+    "gas": 310,
+    "temperature": 24.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795197713978,
+    "gas": 310,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197725030,
+    "gas": 312,
+    "temperature": 24.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197736470,
+    "gas": 314,
+    "temperature": 24.1,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197743976,
+    "gas": 312,
+    "temperature": 24.2,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795197756761,
+    "gas": 316,
+    "temperature": 23.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795197766401,
+    "gas": 316,
+    "temperature": 24.4,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197778643,
+    "gas": 316,
+    "temperature": 24,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795197790398,
+    "gas": 317,
+    "temperature": 24.7,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795197801647,
+    "gas": 315,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197812970,
+    "gas": 317,
+    "temperature": 24.4,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197824290,
+    "gas": 317,
+    "temperature": 24.7,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795197836488,
+    "gas": 319,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197846590,
+    "gas": 317,
+    "temperature": 24.2,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795197858370,
+    "gas": 320,
+    "temperature": 24.1,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197868745,
+    "gas": 316,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197891278,
+    "gas": 318,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795197892280,
+    "gas": 315,
+    "temperature": 24.2,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795197902750,
+    "gas": 314,
+    "temperature": 24.2,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197913325,
+    "gas": 310,
+    "temperature": 24.2,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197925331,
+    "gas": 312,
+    "temperature": 24.1,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197937379,
+    "gas": 313,
+    "temperature": 24,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197952432,
+    "gas": 310,
+    "temperature": 24.2,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795197966542,
+    "gas": 316,
+    "temperature": 23.9,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795197981647,
+    "gas": 313,
+    "temperature": 23.9,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795197990761,
+    "gas": 313,
+    "temperature": 24.1,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795198002801,
+    "gas": 313,
+    "temperature": 24.2,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795198012410,
+    "gas": 307,
+    "temperature": 24.4,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795198027452,
+    "gas": 307,
+    "temperature": 24.2,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795198038710,
+    "gas": 307,
+    "temperature": 24.7,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795198050070,
+    "gas": 308,
+    "temperature": 24,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795198060941,
+    "gas": 334,
+    "temperature": 24.1,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795198073049,
+    "gas": 342,
+    "temperature": 24.1,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795198085080,
+    "gas": 346,
+    "temperature": 23.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795198097085,
+    "gas": 349,
+    "temperature": 24,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795198109125,
+    "gas": 357,
+    "temperature": 23.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795198121107,
+    "gas": 361,
+    "temperature": 23.8,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795198133121,
+    "gas": 358,
+    "temperature": 23.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795198145706,
+    "gas": 366,
+    "temperature": 23.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198157061,
+    "gas": 366,
+    "temperature": 23.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795198169081,
+    "gas": 360,
+    "temperature": 23.8,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795198181101,
+    "gas": 356,
+    "temperature": 23.8,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795198195657,
+    "gas": 355,
+    "temperature": 24,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795198205259,
+    "gas": 355,
+    "temperature": 23.5,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795198217265,
+    "gas": 354,
+    "temperature": 23.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795198229405,
+    "gas": 351,
+    "temperature": 23.5,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795198241490,
+    "gas": 351,
+    "temperature": 23.8,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198254210,
+    "gas": 350,
+    "temperature": 23.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795198265510,
+    "gas": 346,
+    "temperature": 23.5,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795198277790,
+    "gas": 342,
+    "temperature": 23.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198289780,
+    "gas": 341,
+    "temperature": 23.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198301810,
+    "gas": 342,
+    "temperature": 23.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198314715,
+    "gas": 344,
+    "temperature": 23.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198332353,
+    "gas": 346,
+    "temperature": 23.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795198340850,
+    "gas": 342,
+    "temperature": 23.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795198350350,
+    "gas": 338,
+    "temperature": 24.2,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795198363972,
+    "gas": 341,
+    "temperature": 23.9,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795198374470,
+    "gas": 340,
+    "temperature": 23.8,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795198386470,
+    "gas": 339,
+    "temperature": 23.8,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795198398490,
+    "gas": 338,
+    "temperature": 24,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795198410550,
+    "gas": 337,
+    "temperature": 23.7,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795198424726,
+    "gas": 331,
+    "temperature": 23.8,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795198434713,
+    "gas": 331,
+    "temperature": 23.6,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795198446613,
+    "gas": 331,
+    "temperature": 23.9,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795198458663,
+    "gas": 331,
+    "temperature": 23.6,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795198470623,
+    "gas": 339,
+    "temperature": 23.7,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795198482665,
+    "gas": 336,
+    "temperature": 23.8,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795198494615,
+    "gas": 337,
+    "temperature": 23.9,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795261306978,
+    "gas": 867,
+    "temperature": 25.3,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795261317118,
+    "gas": 638,
+    "temperature": 25.5,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795261327576,
+    "gas": 484,
+    "temperature": 25.5,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795261339599,
+    "gas": 410,
+    "temperature": 25.4,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795261351459,
+    "gas": 369,
+    "temperature": 25.5,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795261363506,
+    "gas": 358,
+    "temperature": 25.7,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795261376880,
+    "gas": 349,
+    "temperature": 26.1,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795261387479,
+    "gas": 394,
+    "temperature": 25.8,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795261468814,
+    "gas": 297,
+    "temperature": 26.1,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795261483111,
+    "gas": 289,
+    "temperature": 26.1,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795261498073,
+    "gas": 290,
+    "temperature": 26.1,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795261509083,
+    "gas": 282,
+    "temperature": 26,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795261525399,
+    "gas": 281,
+    "temperature": 26,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795261533169,
+    "gas": 279,
+    "temperature": 25.9,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795261543179,
+    "gas": 282,
+    "temperature": 25.9,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795261555167,
+    "gas": 280,
+    "temperature": 25.8,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795261567177,
+    "gas": 280,
+    "temperature": 25.6,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795261579148,
+    "gas": 280,
+    "temperature": 25.7,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795261591187,
+    "gas": 280,
+    "temperature": 25.6,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795261603157,
+    "gas": 281,
+    "temperature": 25.6,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795261615177,
+    "gas": 279,
+    "temperature": 25.5,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795261627177,
+    "gas": 280,
+    "temperature": 25.8,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795261639187,
+    "gas": 277,
+    "temperature": 25.5,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795261651158,
+    "gas": 280,
+    "temperature": 25.4,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795261663156,
+    "gas": 276,
+    "temperature": 25.4,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795261675171,
+    "gas": 987,
+    "temperature": 25.4,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795261687223,
+    "gas": 1023,
+    "temperature": 25.2,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795261723212,
+    "gas": 1000,
+    "temperature": 25.7,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795261747297,
+    "gas": 715,
+    "temperature": 25.4,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795261759315,
+    "gas": 614,
+    "temperature": 25.9,
+    "humidity": 49
+  },
+  {
+    "timestamp": 1795261771332,
+    "gas": 555,
+    "temperature": 25.4,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795261795345,
+    "gas": 958,
+    "temperature": 25.4,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795261807330,
+    "gas": 936,
+    "temperature": 25.7,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795261819335,
+    "gas": 756,
+    "temperature": 25.4,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795261831318,
+    "gas": 667,
+    "temperature": 25.3,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795261843299,
+    "gas": 615,
+    "temperature": 25.5,
+    "humidity": 49.9
+  },
+  {
+    "timestamp": 1795261855307,
+    "gas": 890,
+    "temperature": 25.6,
+    "humidity": 49.4
+  },
+  {
+    "timestamp": 1795261867360,
+    "gas": 585,
+    "temperature": 25.9,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795261879330,
+    "gas": 559,
+    "temperature": 27.6,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795261891293,
+    "gas": 504,
+    "temperature": 31.5,
+    "humidity": 42.1
+  },
+  {
+    "timestamp": 1795261903320,
+    "gas": 477,
+    "temperature": 36.4,
+    "humidity": 30.3
+  },
+  {
+    "timestamp": 1795261915318,
+    "gas": 469,
+    "temperature": 39.8,
+    "humidity": 18.3
+  },
+  {
+    "timestamp": 1795261927313,
+    "gas": 468,
+    "temperature": 41.3,
+    "humidity": 10
+  },
+  {
+    "timestamp": 1795261939312,
+    "gas": 468,
+    "temperature": 41.3,
+    "humidity": 18.2
+  },
+  {
+    "timestamp": 1795261951286,
+    "gas": 466,
+    "temperature": 39.9,
+    "humidity": 10
+  },
+  {
+    "timestamp": 1795261963373,
+    "gas": 450,
+    "temperature": 38.5,
+    "humidity": 10
+  },
+  {
+    "timestamp": 1795261975334,
+    "gas": 434,
+    "temperature": 37.5,
+    "humidity": 20.4
+  },
+  {
+    "timestamp": 1795261987342,
+    "gas": 429,
+    "temperature": 36,
+    "humidity": 22.1
+  },
+  {
+    "timestamp": 1795261999354,
+    "gas": 417,
+    "temperature": 34.8,
+    "humidity": 23.9
+  },
+  {
+    "timestamp": 1795262011330,
+    "gas": 406,
+    "temperature": 33.9,
+    "humidity": 25.2
+  },
+  {
+    "timestamp": 1795262023348,
+    "gas": 414,
+    "temperature": 34.2,
+    "humidity": 29.4
+  },
+  {
+    "timestamp": 1795262035330,
+    "gas": 393,
+    "temperature": 32.5,
+    "humidity": 30.9
+  },
+  {
+    "timestamp": 1795262048474,
+    "gas": 397,
+    "temperature": 31.7,
+    "humidity": 30.9
+  },
+  {
+    "timestamp": 1795262059364,
+    "gas": 394,
+    "temperature": 32.2,
+    "humidity": 32.2
+  },
+  {
+    "timestamp": 1795262071317,
+    "gas": 376,
+    "temperature": 30.9,
+    "humidity": 33.9
+  },
+  {
+    "timestamp": 1795262083322,
+    "gas": 367,
+    "temperature": 30.3,
+    "humidity": 34.5
+  },
+  {
+    "timestamp": 1795262096893,
+    "gas": 362,
+    "temperature": 29.6,
+    "humidity": 35.6
+  },
+  {
+    "timestamp": 1795262107337,
+    "gas": 358,
+    "temperature": 29.6,
+    "humidity": 36.3
+  },
+  {
+    "timestamp": 1795262120842,
+    "gas": 357,
+    "temperature": 29.1,
+    "humidity": 37.3
+  },
+  {
+    "timestamp": 1795262131482,
+    "gas": 357,
+    "temperature": 28.9,
+    "humidity": 38.3
+  },
+  {
+    "timestamp": 1795262143572,
+    "gas": 354,
+    "temperature": 28.7,
+    "humidity": 39.1
+  },
+  {
+    "timestamp": 1795262155953,
+    "gas": 350,
+    "temperature": 28.5,
+    "humidity": 39.7
+  },
+  {
+    "timestamp": 1795262167582,
+    "gas": 351,
+    "temperature": 28.2,
+    "humidity": 40.4
+  },
+  {
+    "timestamp": 1795262179587,
+    "gas": 350,
+    "temperature": 28.3,
+    "humidity": 40.8
+  },
+  {
+    "timestamp": 1795262191577,
+    "gas": 349,
+    "temperature": 27.7,
+    "humidity": 41.6
+  },
+  {
+    "timestamp": 1795262202742,
+    "gas": 348,
+    "temperature": 27.7,
+    "humidity": 42.3
+  },
+  {
+    "timestamp": 1795262215953,
+    "gas": 343,
+    "temperature": 27.1,
+    "humidity": 42.2
+  },
+  {
+    "timestamp": 1795262228767,
+    "gas": 341,
+    "temperature": 27,
+    "humidity": 42.2
+  },
+  {
+    "timestamp": 1795262238982,
+    "gas": 353,
+    "temperature": 26.8,
+    "humidity": 42.8
+  },
+  {
+    "timestamp": 1795262252147,
+    "gas": 357,
+    "temperature": 26.8,
+    "humidity": 43.2
+  },
+  {
+    "timestamp": 1795262266213,
+    "gas": 354,
+    "temperature": 26.4,
+    "humidity": 43.5
+  },
+  {
+    "timestamp": 1795262277358,
+    "gas": 355,
+    "temperature": 26.4,
+    "humidity": 43.5
+  },
+  {
+    "timestamp": 1795262292867,
+    "gas": 356,
+    "temperature": 26,
+    "humidity": 43.7
+  },
+  {
+    "timestamp": 1795262302633,
+    "gas": 348,
+    "temperature": 26,
+    "humidity": 44.6
+  },
+  {
+    "timestamp": 1795262312973,
+    "gas": 349,
+    "temperature": 26.1,
+    "humidity": 45
+  },
+  {
+    "timestamp": 1795262323363,
+    "gas": 350,
+    "temperature": 25.6,
+    "humidity": 45.3
+  },
+  {
+    "timestamp": 1795262335808,
+    "gas": 354,
+    "temperature": 25.4,
+    "humidity": 45.7
+  },
+  {
+    "timestamp": 1795262347488,
+    "gas": 356,
+    "temperature": 25.4,
+    "humidity": 46.1
+  },
+  {
+    "timestamp": 1795262359457,
+    "gas": 355,
+    "temperature": 25.3,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795262405007,
+    "gas": 389,
+    "temperature": 24.7,
+    "humidity": 46.6
+  },
+  {
+    "timestamp": 1795262415962,
+    "gas": 374,
+    "temperature": 24.8,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795262429689,
+    "gas": 355,
+    "temperature": 24.5,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795262439912,
+    "gas": 349,
+    "temperature": 24.6,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795262453422,
+    "gas": 344,
+    "temperature": 24.5,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795262465442,
+    "gas": 309,
+    "temperature": 24.6,
+    "humidity": 48.1
+  },
+  {
+    "timestamp": 1795262477662,
+    "gas": 292,
+    "temperature": 24.6,
+    "humidity": 48.2
+  },
+  {
+    "timestamp": 1795262490777,
+    "gas": 277,
+    "temperature": 24.6,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795262500027,
+    "gas": 315,
+    "temperature": 24.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795262512702,
+    "gas": 309,
+    "temperature": 24.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795262524314,
+    "gas": 269,
+    "temperature": 24.7,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795262536297,
+    "gas": 303,
+    "temperature": 24.6,
+    "humidity": 49.2
+  },
+  {
+    "timestamp": 1795262549963,
+    "gas": 308,
+    "temperature": 24.6,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795262562712,
+    "gas": 307,
+    "temperature": 24.6,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795262574538,
+    "gas": 289,
+    "temperature": 25.2,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795262585077,
+    "gas": 266,
+    "temperature": 24.9,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795262597268,
+    "gas": 285,
+    "temperature": 25,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795262609237,
+    "gas": 269,
+    "temperature": 25,
+    "humidity": 50.1
+  },
+  {
+    "timestamp": 1795262620464,
+    "gas": 306,
+    "temperature": 25.1,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795262633083,
+    "gas": 356,
+    "temperature": 25,
+    "humidity": 52.2
+  },
+  {
+    "timestamp": 1795262644472,
+    "gas": 316,
+    "temperature": 25.9,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795262657583,
+    "gas": 336,
+    "temperature": 25.2,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795262669573,
+    "gas": 330,
+    "temperature": 25.3,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795262681738,
+    "gas": 327,
+    "temperature": 25.2,
+    "humidity": 48.8
+  },
+  {
+    "timestamp": 1795262706413,
+    "gas": 326,
+    "temperature": 25.2,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795262736023,
+    "gas": 272,
+    "temperature": 25,
+    "humidity": 48.1
+  },
+  {
+    "timestamp": 1795262755658,
+    "gas": 271,
+    "temperature": 25.1,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795262821703,
+    "gas": 288,
+    "temperature": 24.9,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795262838438,
+    "gas": 296,
+    "temperature": 24.6,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795262874897,
+    "gas": 281,
+    "temperature": 24.6,
+    "humidity": 49.1
+  },
+  {
+    "timestamp": 1795262888412,
+    "gas": 278,
+    "temperature": 24.7,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795262902002,
+    "gas": 281,
+    "temperature": 24.4,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795262915626,
+    "gas": 277,
+    "temperature": 24.3,
+    "humidity": 49.7
+  },
+  {
+    "timestamp": 1795262937711,
+    "gas": 280,
+    "temperature": 24.3,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795262953707,
+    "gas": 277,
+    "temperature": 24.4,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795262977576,
+    "gas": 280,
+    "temperature": 24.2,
+    "humidity": 49.8
+  },
+  {
+    "timestamp": 1795262994371,
+    "gas": 278,
+    "temperature": 24.2,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795263012521,
+    "gas": 281,
+    "temperature": 24.2,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795263019731,
+    "gas": 281,
+    "temperature": 24.1,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795263034416,
+    "gas": 280,
+    "temperature": 24.1,
+    "humidity": 50.2
+  },
+  {
+    "timestamp": 1795263045286,
+    "gas": 280,
+    "temperature": 24.1,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795263050366,
+    "gas": 281,
+    "temperature": 24.1,
+    "humidity": 50.3
+  },
+  {
+    "timestamp": 1795263061986,
+    "gas": 283,
+    "temperature": 24,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795263074206,
+    "gas": 288,
+    "temperature": 23.9,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795263091061,
+    "gas": 265,
+    "temperature": 23.9,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795263098696,
+    "gas": 265,
+    "temperature": 24,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795263110611,
+    "gas": 261,
+    "temperature": 23.8,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795263122176,
+    "gas": 257,
+    "temperature": 23.9,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795263134856,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795263147971,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795263160716,
+    "gas": 255,
+    "temperature": 23.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795263168410,
+    "gas": 257,
+    "temperature": 23.9,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795263181821,
+    "gas": 255,
+    "temperature": 23.8,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795263192096,
+    "gas": 255,
+    "temperature": 23.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263205556,
+    "gas": 256,
+    "temperature": 23.9,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263221381,
+    "gas": 256,
+    "temperature": 24.2,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795263229100,
+    "gas": 255,
+    "temperature": 24,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795263243956,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263255086,
+    "gas": 255,
+    "temperature": 23.8,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795263264476,
+    "gas": 255,
+    "temperature": 23.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263280106,
+    "gas": 255,
+    "temperature": 23.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263289393,
+    "gas": 254,
+    "temperature": 23.8,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795263303081,
+    "gas": 254,
+    "temperature": 23.8,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795263319036,
+    "gas": 254,
+    "temperature": 23.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263339825,
+    "gas": 254,
+    "temperature": 23.8,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795263344081,
+    "gas": 254,
+    "temperature": 23.6,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795263352256,
+    "gas": 254,
+    "temperature": 23.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263362121,
+    "gas": 255,
+    "temperature": 23.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795263375101,
+    "gas": 253,
+    "temperature": 23.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795263388640,
+    "gas": 254,
+    "temperature": 23.8,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795263403597,
+    "gas": 253,
+    "temperature": 23.6,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263413271,
+    "gas": 253,
+    "temperature": 23.8,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263427676,
+    "gas": 254,
+    "temperature": 23.8,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795263436256,
+    "gas": 255,
+    "temperature": 23.7,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263450040,
+    "gas": 256,
+    "temperature": 23.8,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263459251,
+    "gas": 255,
+    "temperature": 23.6,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263476279,
+    "gas": 255,
+    "temperature": 23.8,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795263486678,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263496046,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263507846,
+    "gas": 257,
+    "temperature": 23.7,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263523936,
+    "gas": 256,
+    "temperature": 23.8,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263532030,
+    "gas": 255,
+    "temperature": 23.7,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263542142,
+    "gas": 254,
+    "temperature": 23.6,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263554166,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263566201,
+    "gas": 254,
+    "temperature": 23.7,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263594691,
+    "gas": 254,
+    "temperature": 23.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795263597782,
+    "gas": 253,
+    "temperature": 23.6,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263604471,
+    "gas": 255,
+    "temperature": 23.7,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263616506,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263628481,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263640481,
+    "gas": 255,
+    "temperature": 23.8,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795263652281,
+    "gas": 254,
+    "temperature": 23.6,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263667035,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263676561,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263688520,
+    "gas": 254,
+    "temperature": 23.6,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795263700560,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795263712531,
+    "gas": 257,
+    "temperature": 23.6,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795263724561,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 51.7
+  },
+  {
+    "timestamp": 1795263736621,
+    "gas": 257,
+    "temperature": 23.8,
+    "humidity": 51.7
+  },
+  {
+    "timestamp": 1795263748571,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795263760596,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263773647,
+    "gas": 256,
+    "temperature": 23.8,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795263784801,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263796571,
+    "gas": 257,
+    "temperature": 23.6,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263811251,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263820991,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263833821,
+    "gas": 258,
+    "temperature": 23.6,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795263845051,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795263857757,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263869130,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795263881226,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795263893471,
+    "gas": 256,
+    "temperature": 23.8,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795263905281,
+    "gas": 257,
+    "temperature": 23.6,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795263917351,
+    "gas": 257,
+    "temperature": 23.6,
+    "humidity": 52.2
+  },
+  {
+    "timestamp": 1795263935391,
+    "gas": 257,
+    "temperature": 23.8,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795263955371,
+    "gas": 256,
+    "temperature": 23.4,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795263975321,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 52.2
+  },
+  {
+    "timestamp": 1795263988968,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264000283,
+    "gas": 256,
+    "temperature": 23.8,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795264011959,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264023988,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264035948,
+    "gas": 255,
+    "temperature": 23.9,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264047918,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264059943,
+    "gas": 256,
+    "temperature": 23.8,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264071928,
+    "gas": 256,
+    "temperature": 23.3,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795264083978,
+    "gas": 256,
+    "temperature": 23.6,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264095938,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264107968,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264119998,
+    "gas": 256,
+    "temperature": 23.3,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264133490,
+    "gas": 256,
+    "temperature": 23.4,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264144193,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264155938,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264167991,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264181261,
+    "gas": 258,
+    "temperature": 23.5,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795264195428,
+    "gas": 259,
+    "temperature": 23.5,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264205111,
+    "gas": 258,
+    "temperature": 23.5,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264218085,
+    "gas": 257,
+    "temperature": 23.8,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795264226183,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264236904,
+    "gas": 258,
+    "temperature": 23.5,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264248953,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264261724,
+    "gas": 256,
+    "temperature": 23.5,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264273383,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264288773,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264297325,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264309712,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264321153,
+    "gas": 257,
+    "temperature": 23.7,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264333123,
+    "gas": 257,
+    "temperature": 23.6,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264345133,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264357171,
+    "gas": 256,
+    "temperature": 23.3,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264369334,
+    "gas": 259,
+    "temperature": 23.8,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264381125,
+    "gas": 261,
+    "temperature": 23.5,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264393143,
+    "gas": 259,
+    "temperature": 23.7,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264405133,
+    "gas": 261,
+    "temperature": 23.8,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795264417113,
+    "gas": 259,
+    "temperature": 23.3,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264429811,
+    "gas": 264,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264441552,
+    "gas": 265,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264453911,
+    "gas": 262,
+    "temperature": 23.3,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264465351,
+    "gas": 262,
+    "temperature": 23.4,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264477421,
+    "gas": 262,
+    "temperature": 23.8,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795264489311,
+    "gas": 262,
+    "temperature": 23.7,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264500881,
+    "gas": 261,
+    "temperature": 23.4,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264513491,
+    "gas": 262,
+    "temperature": 23.6,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264525456,
+    "gas": 261,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264537436,
+    "gas": 261,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264549476,
+    "gas": 262,
+    "temperature": 23.4,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264561456,
+    "gas": 262,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264573671,
+    "gas": 262,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264585697,
+    "gas": 265,
+    "temperature": 23.3,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795264597727,
+    "gas": 264,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264612346,
+    "gas": 264,
+    "temperature": 23.5,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795264623138,
+    "gas": 264,
+    "temperature": 23.4,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795264637575,
+    "gas": 264,
+    "temperature": 23.4,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795264648126,
+    "gas": 264,
+    "temperature": 23.5,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795264659992,
+    "gas": 264,
+    "temperature": 23.5,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795264673714,
+    "gas": 265,
+    "temperature": 23.5,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795264683966,
+    "gas": 264,
+    "temperature": 23.3,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795264697875,
+    "gas": 265,
+    "temperature": 23.5,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264708891,
+    "gas": 262,
+    "temperature": 23.4,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264722915,
+    "gas": 264,
+    "temperature": 23.4,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795264735429,
+    "gas": 261,
+    "temperature": 23.3,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264745396,
+    "gas": 261,
+    "temperature": 23.4,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795264757144,
+    "gas": 261,
+    "temperature": 23.4,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264769247,
+    "gas": 259,
+    "temperature": 23.4,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264781434,
+    "gas": 260,
+    "temperature": 23.3,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795264793392,
+    "gas": 259,
+    "temperature": 23.4,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795264805348,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264817434,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264829761,
+    "gas": 257,
+    "temperature": 23.2,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264841481,
+    "gas": 256,
+    "temperature": 23.3,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264851556,
+    "gas": 259,
+    "temperature": 23.4,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264863641,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264875542,
+    "gas": 258,
+    "temperature": 23.5,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264887582,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264900915,
+    "gas": 257,
+    "temperature": 23.8,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795264911647,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264923487,
+    "gas": 258,
+    "temperature": 23.4,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264935597,
+    "gas": 257,
+    "temperature": 23.2,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264948900,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795264959927,
+    "gas": 256,
+    "temperature": 23.2,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795264972071,
+    "gas": 256,
+    "temperature": 23.3,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795264983911,
+    "gas": 256,
+    "temperature": 23.4,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795264995897,
+    "gas": 255,
+    "temperature": 23.5,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265009556,
+    "gas": 255,
+    "temperature": 23.6,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265019847,
+    "gas": 256,
+    "temperature": 23.3,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795265032825,
+    "gas": 255,
+    "temperature": 23.4,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265044024,
+    "gas": 257,
+    "temperature": 23.5,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795265056828,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795265068500,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795265080485,
+    "gas": 261,
+    "temperature": 23.5,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795265092766,
+    "gas": 258,
+    "temperature": 23.5,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795265107257,
+    "gas": 258,
+    "temperature": 23.3,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795265120865,
+    "gas": 258,
+    "temperature": 23.4,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795265133228,
+    "gas": 260,
+    "temperature": 23.3,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795265147446,
+    "gas": 259,
+    "temperature": 23.4,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795265162597,
+    "gas": 261,
+    "temperature": 23.4,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795265173954,
+    "gas": 261,
+    "temperature": 23.2,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795265185988,
+    "gas": 259,
+    "temperature": 23.2,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795265198667,
+    "gas": 259,
+    "temperature": 23.2,
+    "humidity": 53.1
+  },
+  {
+    "timestamp": 1795265210668,
+    "gas": 258,
+    "temperature": 23.3,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795265222609,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795265234927,
+    "gas": 257,
+    "temperature": 23.4,
+    "humidity": 52.9
+  },
+  {
+    "timestamp": 1795265246818,
+    "gas": 260,
+    "temperature": 23.4,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1795265258748,
+    "gas": 260,
+    "temperature": 23.3,
+    "humidity": 53.2
+  },
+  {
+    "timestamp": 1795265270858,
+    "gas": 307,
+    "temperature": 23.4,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1795265282987,
+    "gas": 308,
+    "temperature": 23.4,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1795265294819,
+    "gas": 306,
+    "temperature": 23.4,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1795265307229,
+    "gas": 304,
+    "temperature": 23.4,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1795265319228,
+    "gas": 302,
+    "temperature": 23.5,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1795265331298,
+    "gas": 301,
+    "temperature": 23.6,
+    "humidity": 53.3
+  },
+  {
+    "timestamp": 1795265343097,
+    "gas": 301,
+    "temperature": 23.5,
+    "humidity": 53.6
+  },
+  {
+    "timestamp": 1795265355479,
+    "gas": 300,
+    "temperature": 23.8,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1795265382097,
+    "gas": 296,
+    "temperature": 23.6,
+    "humidity": 53.4
+  },
+  {
+    "timestamp": 1795265392488,
+    "gas": 293,
+    "temperature": 23.8,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795265406048,
+    "gas": 293,
+    "temperature": 23.8,
+    "humidity": 53
+  },
+  {
+    "timestamp": 1795265417277,
+    "gas": 294,
+    "temperature": 23.9,
+    "humidity": 52.8
+  },
+  {
+    "timestamp": 1795265430399,
+    "gas": 296,
+    "temperature": 23.8,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795265441367,
+    "gas": 292,
+    "temperature": 23.9,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795265453617,
+    "gas": 294,
+    "temperature": 23.8,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795265465517,
+    "gas": 293,
+    "temperature": 24.1,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795265475418,
+    "gas": 296,
+    "temperature": 24,
+    "humidity": 52.6
+  },
+  {
+    "timestamp": 1795265485417,
+    "gas": 293,
+    "temperature": 24,
+    "humidity": 52.7
+  },
+  {
+    "timestamp": 1795265497480,
+    "gas": 293,
+    "temperature": 24.1,
+    "humidity": 52.5
+  },
+  {
+    "timestamp": 1795265509371,
+    "gas": 293,
+    "temperature": 24.2,
+    "humidity": 52.4
+  },
+  {
+    "timestamp": 1795265521455,
+    "gas": 297,
+    "temperature": 24.2,
+    "humidity": 52.3
+  },
+  {
+    "timestamp": 1795265534446,
+    "gas": 293,
+    "temperature": 24.2,
+    "humidity": 52.2
+  },
+  {
+    "timestamp": 1795265545045,
+    "gas": 293,
+    "temperature": 24.1,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795265557387,
+    "gas": 291,
+    "temperature": 24.1,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795265568496,
+    "gas": 294,
+    "temperature": 24.1,
+    "humidity": 52.1
+  },
+  {
+    "timestamp": 1795265580625,
+    "gas": 295,
+    "temperature": 24.1,
+    "humidity": 52
+  },
+  {
+    "timestamp": 1795265592525,
+    "gas": 294,
+    "temperature": 24.3,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265608125,
+    "gas": 293,
+    "temperature": 24.4,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265614845,
+    "gas": 296,
+    "temperature": 24.3,
+    "humidity": 51.7
+  },
+  {
+    "timestamp": 1795265633211,
+    "gas": 291,
+    "temperature": 24.2,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795265640903,
+    "gas": 289,
+    "temperature": 24.2,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265652815,
+    "gas": 290,
+    "temperature": 24.4,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265667145,
+    "gas": 289,
+    "temperature": 24.4,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265677145,
+    "gas": 291,
+    "temperature": 24.4,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795265689735,
+    "gas": 290,
+    "temperature": 24.4,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795265705726,
+    "gas": 293,
+    "temperature": 24.8,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795265713463,
+    "gas": 289,
+    "temperature": 24.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795265727353,
+    "gas": 293,
+    "temperature": 24.8,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795265737616,
+    "gas": 292,
+    "temperature": 24.4,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795265750591,
+    "gas": 294,
+    "temperature": 24.5,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795265761753,
+    "gas": 292,
+    "temperature": 24.4,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795265774727,
+    "gas": 290,
+    "temperature": 24.5,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795265785951,
+    "gas": 290,
+    "temperature": 24.6,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795265797616,
+    "gas": 291,
+    "temperature": 24.5,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795265809797,
+    "gas": 290,
+    "temperature": 24.6,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795265823656,
+    "gas": 293,
+    "temperature": 24.5,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795265841386,
+    "gas": 290,
+    "temperature": 24.7,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795265845286,
+    "gas": 291,
+    "temperature": 24.4,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795265858972,
+    "gas": 290,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795265870787,
+    "gas": 290,
+    "temperature": 24.6,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795265881437,
+    "gas": 291,
+    "temperature": 24.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795265895177,
+    "gas": 289,
+    "temperature": 24.6,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795265905547,
+    "gas": 292,
+    "temperature": 24.6,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795265917646,
+    "gas": 292,
+    "temperature": 24.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795265929628,
+    "gas": 293,
+    "temperature": 24.6,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795265941908,
+    "gas": 296,
+    "temperature": 24.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795265953555,
+    "gas": 293,
+    "temperature": 24.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795265965536,
+    "gas": 294,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795265977587,
+    "gas": 296,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795265989608,
+    "gas": 295,
+    "temperature": 24.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266001526,
+    "gas": 297,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266014407,
+    "gas": 297,
+    "temperature": 24.6,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266027876,
+    "gas": 296,
+    "temperature": 24.6,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266037861,
+    "gas": 296,
+    "temperature": 24.5,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266051206,
+    "gas": 298,
+    "temperature": 24.5,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266062186,
+    "gas": 303,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266074096,
+    "gas": 301,
+    "temperature": 24.6,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266086036,
+    "gas": 301,
+    "temperature": 24.6,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266098136,
+    "gas": 300,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266110105,
+    "gas": 297,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266122992,
+    "gas": 280,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266134237,
+    "gas": 277,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266146411,
+    "gas": 278,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266158267,
+    "gas": 277,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266170157,
+    "gas": 276,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266182157,
+    "gas": 274,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266194141,
+    "gas": 272,
+    "temperature": 24.5,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795266206100,
+    "gas": 274,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266218177,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266230357,
+    "gas": 273,
+    "temperature": 24.8,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266245237,
+    "gas": 273,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266257388,
+    "gas": 276,
+    "temperature": 24.5,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795266269697,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266283647,
+    "gas": 272,
+    "temperature": 24.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266293507,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266305751,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266317570,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266329789,
+    "gas": 272,
+    "temperature": 24.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266341657,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266353518,
+    "gas": 270,
+    "temperature": 24.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266365735,
+    "gas": 270,
+    "temperature": 24.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266377815,
+    "gas": 273,
+    "temperature": 24.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266387695,
+    "gas": 270,
+    "temperature": 24.7,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795266401276,
+    "gas": 271,
+    "temperature": 24.8,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795266411996,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795266423915,
+    "gas": 274,
+    "temperature": 24.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266445716,
+    "gas": 272,
+    "temperature": 24.7,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266454827,
+    "gas": 274,
+    "temperature": 24.6,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266466857,
+    "gas": 273,
+    "temperature": 24.6,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266478644,
+    "gas": 273,
+    "temperature": 24.6,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266489925,
+    "gas": 277,
+    "temperature": 24.9,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266499775,
+    "gas": 274,
+    "temperature": 24.8,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266510646,
+    "gas": 274,
+    "temperature": 24.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266522565,
+    "gas": 277,
+    "temperature": 24.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266532900,
+    "gas": 274,
+    "temperature": 24.9,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266545067,
+    "gas": 274,
+    "temperature": 24.7,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266557047,
+    "gas": 273,
+    "temperature": 24.7,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266570090,
+    "gas": 273,
+    "temperature": 24.6,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266581415,
+    "gas": 272,
+    "temperature": 24.5,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266593279,
+    "gas": 272,
+    "temperature": 24.7,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795266605485,
+    "gas": 273,
+    "temperature": 24.6,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795266617105,
+    "gas": 272,
+    "temperature": 24.6,
+    "humidity": 50.5
+  },
+  {
+    "timestamp": 1795266629167,
+    "gas": 260,
+    "temperature": 24.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266642207,
+    "gas": 240,
+    "temperature": 24.8,
+    "humidity": 50.6
+  },
+  {
+    "timestamp": 1795266653177,
+    "gas": 228,
+    "temperature": 24.6,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795266666157,
+    "gas": 223,
+    "temperature": 24.4,
+    "humidity": 50.8
+  },
+  {
+    "timestamp": 1795266677325,
+    "gas": 220,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266690771,
+    "gas": 221,
+    "temperature": 24.5,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266703317,
+    "gas": 220,
+    "temperature": 24.3,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795266713822,
+    "gas": 221,
+    "temperature": 24.4,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795266725472,
+    "gas": 221,
+    "temperature": 24.7,
+    "humidity": 51.2
+  },
+  {
+    "timestamp": 1795266742131,
+    "gas": 219,
+    "temperature": 24.2,
+    "humidity": 51.3
+  },
+  {
+    "timestamp": 1795266750297,
+    "gas": 220,
+    "temperature": 24.3,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266762666,
+    "gas": 219,
+    "temperature": 24.3,
+    "humidity": 50.9
+  },
+  {
+    "timestamp": 1795266773531,
+    "gas": 220,
+    "temperature": 24.2,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795266790871,
+    "gas": 221,
+    "temperature": 24.1,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795266798227,
+    "gas": 220,
+    "temperature": 24.2,
+    "humidity": 51.1
+  },
+  {
+    "timestamp": 1795266808727,
+    "gas": 219,
+    "temperature": 24.2,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266818982,
+    "gas": 220,
+    "temperature": 24.7,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795266831117,
+    "gas": 220,
+    "temperature": 24,
+    "humidity": 51.4
+  },
+  {
+    "timestamp": 1795266843265,
+    "gas": 221,
+    "temperature": 23.9,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795266855267,
+    "gas": 221,
+    "temperature": 23.9,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795266867447,
+    "gas": 221,
+    "temperature": 23.9,
+    "humidity": 51.6
+  },
+  {
+    "timestamp": 1795266879277,
+    "gas": 254,
+    "temperature": 23.9,
+    "humidity": 51.9
+  },
+  {
+    "timestamp": 1795266891687,
+    "gas": 229,
+    "temperature": 23.8,
+    "humidity": 52.2
+  },
+  {
+    "timestamp": 1795267077405,
+    "gas": 279,
+    "temperature": 29.5,
+    "humidity": 81.1
+  },
+  {
+    "timestamp": 1795267089211,
+    "gas": 277,
+    "temperature": 29.4,
+    "humidity": 64
+  },
+  {
+    "timestamp": 1795267101378,
+    "gas": 254,
+    "temperature": 29,
+    "humidity": 53.5
+  },
+  {
+    "timestamp": 1795267113615,
+    "gas": 706,
+    "temperature": 29,
+    "humidity": 49.3
+  },
+  {
+    "timestamp": 1795267127436,
+    "gas": 326,
+    "temperature": 29.9,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795267137712,
+    "gas": 316,
+    "temperature": 28.3,
+    "humidity": 47.2
+  },
+  {
+    "timestamp": 1795267149553,
+    "gas": 313,
+    "temperature": 28.2,
+    "humidity": 46.5
+  },
+  {
+    "timestamp": 1795267161684,
+    "gas": 310,
+    "temperature": 27.6,
+    "humidity": 46.3
+  },
+  {
+    "timestamp": 1795267174863,
+    "gas": 312,
+    "temperature": 27.8,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795267186819,
+    "gas": 318,
+    "temperature": 27.7,
+    "humidity": 48
+  },
+  {
+    "timestamp": 1795267197746,
+    "gas": 310,
+    "temperature": 27.5,
+    "humidity": 46.7
+  },
+  {
+    "timestamp": 1795267212150,
+    "gas": 366,
+    "temperature": 27,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795267221665,
+    "gas": 376,
+    "temperature": 27.1,
+    "humidity": 48.3
+  },
+  {
+    "timestamp": 1795267233783,
+    "gas": 380,
+    "temperature": 27.1,
+    "humidity": 47.3
+  },
+  {
+    "timestamp": 1795267245761,
+    "gas": 351,
+    "temperature": 27.6,
+    "humidity": 47.5
+  },
+  {
+    "timestamp": 1795267258333,
+    "gas": 365,
+    "temperature": 26.9,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795267269611,
+    "gas": 340,
+    "temperature": 26.9,
+    "humidity": 47.8
+  },
+  {
+    "timestamp": 1795267281633,
+    "gas": 318,
+    "temperature": 26.8,
+    "humidity": 48.5
+  },
+  {
+    "timestamp": 1795267293851,
+    "gas": 291,
+    "temperature": 26.7,
+    "humidity": 47.6
+  },
+  {
+    "timestamp": 1795267305817,
+    "gas": 283,
+    "temperature": 26.6,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795267317586,
+    "gas": 281,
+    "temperature": 26.4,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795267335470,
+    "gas": 282,
+    "temperature": 26.3,
+    "humidity": 47.4
+  },
+  {
+    "timestamp": 1795267354290,
+    "gas": 282,
+    "temperature": 26.1,
+    "humidity": 47.6
+  },
+  {
+    "timestamp": 1795267362401,
+    "gas": 281,
+    "temperature": 26,
+    "humidity": 47.9
+  },
+  {
+    "timestamp": 1795267368171,
+    "gas": 282,
+    "temperature": 25.8,
+    "humidity": 48.1
+  },
+  {
+    "timestamp": 1795267386612,
+    "gas": 282,
+    "temperature": 25.7,
+    "humidity": 48.6
+  },
+  {
+    "timestamp": 1795267393891,
+    "gas": 282,
+    "temperature": 25.5,
+    "humidity": 48.9
+  },
+  {
+    "timestamp": 1795267402792,
+    "gas": 282,
+    "temperature": 25.1,
+    "humidity": 49.5
+  },
+  {
+    "timestamp": 1795267414092,
+    "gas": 282,
+    "temperature": 25.4,
+    "humidity": 49.6
+  },
+  {
+    "timestamp": 1795267426683,
+    "gas": 282,
+    "temperature": 25.3,
+    "humidity": 50
+  },
+  {
+    "timestamp": 1795267438969,
+    "gas": 283,
+    "temperature": 25,
+    "humidity": 50.4
+  },
+  {
+    "timestamp": 1795267451708,
+    "gas": 285,
+    "temperature": 24.9,
+    "humidity": 50.7
+  },
+  {
+    "timestamp": 1795267465142,
+    "gas": 284,
+    "temperature": 24.8,
+    "humidity": 51
+  },
+  {
+    "timestamp": 1795267482350,
+    "gas": 283,
+    "temperature": 24.6,
+    "humidity": 51.5
+  },
+  {
+    "timestamp": 1795267492570,
+    "gas": 283,
+    "temperature": 24.4,
+    "humidity": 51.8
+  },
+  {
+    "timestamp": 1795267751623,
+    "gas": 292,
+    "temperature": 23.6,
+    "humidity": 55.6
+  },
+  {
+    "timestamp": 1795267758360,
+    "gas": 293,
+    "temperature": 23.5,
+    "humidity": 55.9
+  },
+  {
+    "timestamp": 1795267772053,
+    "gas": 295,
+    "temperature": 23.4,
+    "humidity": 56.1
+  },
+  {
+    "timestamp": 1795267782409,
+    "gas": 296,
+    "temperature": 23.2,
+    "humidity": 56.2
+  },
+  {
+    "timestamp": 1795267794492,
+    "gas": 294,
+    "temperature": 23.4,
+    "humidity": 56.2
+  },
+  {
+    "timestamp": 1795267809247,
+    "gas": 294,
+    "temperature": 23.3,
+    "humidity": 56.1
+  },
+  {
+    "timestamp": 1795267822959,
+    "gas": 293,
+    "temperature": 23.3,
+    "humidity": 56.1
+  },
+  {
+    "timestamp": 1795267833960,
+    "gas": 296,
+    "temperature": 23.3,
+    "humidity": 56.1
+  },
+  {
+    "timestamp": 1795267846855,
+    "gas": 297,
+    "temperature": 23.3,
+    "humidity": 56.2
+  },
+  {
+    "timestamp": 1795267858026,
+    "gas": 297,
+    "temperature": 23.2,
+    "humidity": 56.4
+  },
+  {
+    "timestamp": 1795267870073,
+    "gas": 297,
+    "temperature": 23.1,
+    "humidity": 56.4
+  },
+  {
+    "timestamp": 1795267882233,
+    "gas": 297,
+    "temperature": 23.3,
+    "humidity": 56.3
+  },
+  {
+    "timestamp": 1795267894223,
+    "gas": 298,
+    "temperature": 23.2,
+    "humidity": 56.5
+  },
+  {
+    "timestamp": 1795267906205,
+    "gas": 300,
+    "temperature": 23.2,
+    "humidity": 56.5
+  },
+  {
+    "timestamp": 1795267918263,
+    "gas": 298,
+    "temperature": 23.2,
+    "humidity": 56.5
+  },
+  {
+    "timestamp": 1795267931388,
+    "gas": 297,
+    "temperature": 23.2,
+    "humidity": 56.5
+  },
+  {
+    "timestamp": 1795267943751,
+    "gas": 297,
+    "temperature": 23,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795267954296,
+    "gas": 295,
+    "temperature": 23.1,
+    "humidity": 56.8
+  },
+  {
+    "timestamp": 1795267966386,
+    "gas": 297,
+    "temperature": 23.1,
+    "humidity": 56.8
+  },
+  {
+    "timestamp": 1795267979416,
+    "gas": 298,
+    "temperature": 23.3,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795267990131,
+    "gas": 297,
+    "temperature": 23.1,
+    "humidity": 56.8
+  },
+  {
+    "timestamp": 1795268003371,
+    "gas": 297,
+    "temperature": 23,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795268015521,
+    "gas": 298,
+    "temperature": 23.1,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268026526,
+    "gas": 300,
+    "temperature": 23.1,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268040401,
+    "gas": 301,
+    "temperature": 23.5,
+    "humidity": 56.4
+  },
+  {
+    "timestamp": 1795268050176,
+    "gas": 301,
+    "temperature": 23.1,
+    "humidity": 56.5
+  },
+  {
+    "timestamp": 1795268061981,
+    "gas": 301,
+    "temperature": 22.9,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268077701,
+    "gas": 300,
+    "temperature": 22.9,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268086111,
+    "gas": 301,
+    "temperature": 23,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795268099411,
+    "gas": 301,
+    "temperature": 23.2,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795268108361,
+    "gas": 301,
+    "temperature": 23.1,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795268120326,
+    "gas": 303,
+    "temperature": 23.7,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268132369,
+    "gas": 305,
+    "temperature": 23,
+    "humidity": 56.9
+  },
+  {
+    "timestamp": 1795268145201,
+    "gas": 306,
+    "temperature": 22.9,
+    "humidity": 57.1
+  },
+  {
+    "timestamp": 1795268156261,
+    "gas": 307,
+    "temperature": 23.2,
+    "humidity": 57.1
+  },
+  {
+    "timestamp": 1795268168861,
+    "gas": 308,
+    "temperature": 22.7,
+    "humidity": 57.4
+  },
+  {
+    "timestamp": 1795268179746,
+    "gas": 308,
+    "temperature": 22.9,
+    "humidity": 57.5
+  },
+  {
+    "timestamp": 1795268193626,
+    "gas": 308,
+    "temperature": 22.9,
+    "humidity": 57.6
+  },
+  {
+    "timestamp": 1795268206321,
+    "gas": 308,
+    "temperature": 22.9,
+    "humidity": 57.7
+  },
+  {
+    "timestamp": 1795268216866,
+    "gas": 309,
+    "temperature": 22.9,
+    "humidity": 57.7
+  },
+  {
+    "timestamp": 1795268228490,
+    "gas": 309,
+    "temperature": 23.1,
+    "humidity": 57.7
+  },
+  {
+    "timestamp": 1795268241096,
+    "gas": 310,
+    "temperature": 22.9,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268251926,
+    "gas": 310,
+    "temperature": 22.9,
+    "humidity": 57.9
+  },
+  {
+    "timestamp": 1795268264111,
+    "gas": 310,
+    "temperature": 22.9,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268276266,
+    "gas": 312,
+    "temperature": 22.9,
+    "humidity": 58.1
+  },
+  {
+    "timestamp": 1795268287841,
+    "gas": 314,
+    "temperature": 22.9,
+    "humidity": 58.1
+  },
+  {
+    "timestamp": 1795268303626,
+    "gas": 312,
+    "temperature": 23,
+    "humidity": 58.2
+  },
+  {
+    "timestamp": 1795268313336,
+    "gas": 312,
+    "temperature": 22.7,
+    "humidity": 58.2
+  },
+  {
+    "timestamp": 1795268323746,
+    "gas": 313,
+    "temperature": 22.8,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268335821,
+    "gas": 316,
+    "temperature": 22.7,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268347991,
+    "gas": 316,
+    "temperature": 22.7,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268359816,
+    "gas": 317,
+    "temperature": 23.2,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268371811,
+    "gas": 317,
+    "temperature": 23,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268385616,
+    "gas": 319,
+    "temperature": 22.8,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268396171,
+    "gas": 319,
+    "temperature": 22.8,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268432586,
+    "gas": 318,
+    "temperature": 22.5,
+    "humidity": 58.1
+  },
+  {
+    "timestamp": 1795268468737,
+    "gas": 319,
+    "temperature": 22.9,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268478697,
+    "gas": 318,
+    "temperature": 22.8,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268490992,
+    "gas": 319,
+    "temperature": 22.7,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268501498,
+    "gas": 318,
+    "temperature": 22.8,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268515444,
+    "gas": 319,
+    "temperature": 22.8,
+    "humidity": 57.8
+  },
+  {
+    "timestamp": 1795268530343,
+    "gas": 320,
+    "temperature": 22.7,
+    "humidity": 57.9
+  },
+  {
+    "timestamp": 1795268538352,
+    "gas": 320,
+    "temperature": 22.5,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268549527,
+    "gas": 322,
+    "temperature": 22.6,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268562917,
+    "gas": 322,
+    "temperature": 22.7,
+    "humidity": 58
+  },
+  {
+    "timestamp": 1795268573382,
+    "gas": 333,
+    "temperature": 22.7,
+    "humidity": 58.1
+  },
+  {
+    "timestamp": 1795268591092,
+    "gas": 322,
+    "temperature": 22.7,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1795268595616,
+    "gas": 318,
+    "temperature": 22.6,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1795268609162,
+    "gas": 318,
+    "temperature": 22.8,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1795268623457,
+    "gas": 316,
+    "temperature": 22.8,
+    "humidity": 58.4
+  },
+  {
+    "timestamp": 1795268638627,
+    "gas": 317,
+    "temperature": 22.8,
+    "humidity": 58.4
+  },
+  {
+    "timestamp": 1795268644992,
+    "gas": 317,
+    "temperature": 22.7,
+    "humidity": 58.4
+  },
+  {
+    "timestamp": 1795268654983,
+    "gas": 317,
+    "temperature": 22.8,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1795268666921,
+    "gas": 318,
+    "temperature": 22.9,
+    "humidity": 58.4
+  },
+  {
+    "timestamp": 1795268679640,
+    "gas": 319,
+    "temperature": 23,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1795268691102,
+    "gas": 310,
+    "temperature": 23.1,
+    "humidity": 58.3
+  },
+  {
+    "timestamp": 1795268726259,
+    "gas": 345,
+    "temperature": 23.2,
+    "humidity": 58.1
+  },
+  {
+    "timestamp": 1795268737180,
+    "gas": 324,
+    "temperature": 23.5,
+    "humidity": 58.2
+  },
+  {
+    "timestamp": 1795268749906,
+    "gas": 284,
+    "temperature": 23.6,
+    "humidity": 57.7
+  },
+  {
+    "timestamp": 1795268764461,
+    "gas": 267,
+    "temperature": 23.6,
+    "humidity": 57.2
+  },
+  {
+    "timestamp": 1795268774741,
+    "gas": 255,
+    "temperature": 23.4,
+    "humidity": 56.9
+  },
+  {
+    "timestamp": 1795268784143,
+    "gas": 253,
+    "temperature": 23.6,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268795859,
+    "gas": 255,
+    "temperature": 23.6,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268808399,
+    "gas": 254,
+    "temperature": 23.7,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268819808,
+    "gas": 252,
+    "temperature": 23.9,
+    "humidity": 56.4
+  },
+  {
+    "timestamp": 1795268834876,
+    "gas": 254,
+    "temperature": 23.5,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268848086,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795268855536,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 56.5
+  },
+  {
+    "timestamp": 1795268866104,
+    "gas": 256,
+    "temperature": 23.7,
+    "humidity": 56.6
+  },
+  {
+    "timestamp": 1795268877759,
+    "gas": 256,
+    "temperature": 23.2,
+    "humidity": 56.8
+  },
+  {
+    "timestamp": 1795268889812,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 56.7
+  },
+  {
+    "timestamp": 1795268908075,
+    "gas": 257,
+    "temperature": 23.3,
+    "humidity": 56.8
+  },
+  {
+    "timestamp": 1795268918998,
+    "gas": 258,
+    "temperature": 23.7,
+    "humidity": 56.7
+  }
+]
