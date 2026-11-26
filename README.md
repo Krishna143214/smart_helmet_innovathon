@@ -4,7 +4,7 @@
 
 MineWatch is an IoT-based smart mining helmet prototype built around an **ESP8266 NodeMCU**. It monitors gas-sensor readings, temperature, and humidity; obtains GPS information when a valid satellite fix is available; and sends telemetry to **Firebase Realtime Database** for live viewing in a web dashboard.
 
-The system also supports two separate alert paths: a locally triggered automatic alert and a dashboard-controlled buzzer command.
+The system also supports two separate alert paths: a locally triggered automatic alert and a dashboard-controlled buzzer command. The web application is built with Next.js and React, and its separate FastAPI service provides machine-learning anomaly predictions.
 
 > **Prototype status:** This repository contains the current breadboard-oriented prototype, its web dashboard, ESP8266 firmware, and project presentation. It is not a certified mining safety device.
 
@@ -42,7 +42,7 @@ The system also supports two separate alert paths: a locally triggered automatic
 | Location | NEO-6M GPS module |
 | Local display | 128 × 64 OLED |
 | Cloud communication | Wi-Fi + Firebase Realtime Database |
-| Dashboard | HTML, CSS, JavaScript |
+| Dashboard | Next.js App Router, React, TypeScript, and CSS |
 | Live map | Leaflet + OpenStreetMap |
 | Telemetry charts | Chart.js |
 | Remote control | Firebase dashboard-buzzer command |
@@ -74,45 +74,34 @@ The system also supports two separate alert paths: a locally triggered automatic
 - Recent telemetry table.
 - CSV export of available history records.
 - Remote dashboard-buzzer control.
+- AI anomaly predictions through the FastAPI service.
+- A separate Simulation Lab with environment controls and an imported 3D helmet model.
 
 ---
 
 ## System architecture
 
 ```text
-┌────────────────────────────────────────────┐
-│             SMART HELMET                   │
-│                                            │
-│  Gas sensor ───────┐                       │
-│  DHT11 ────────────┼──> NodeMCU ESP8266     │
-│  NEO-6M GPS ───────┤         │              │
-│  OLED display <────┤         ├──> Local     │
-│  Auto alert <──────┘         │    alert     │
-│                              │              │
-│                     Wi-Fi   │              │
-└──────────────────────────────┼──────────────┘
-                               │
-                               ▼
-┌────────────────────────────────────────────┐
-│          FIREBASE REALTIME DATABASE        │
-│                                            │
-│  /MiningHelmet/live                        │
-│  /MiningHelmet/history                     │
-│  /MiningHelmet/commands/dashboardBuzzer    │
-└──────────────────────────────┬─────────────┘
-                               │
-                   Realtime data│ / command
-                               ▼
-┌────────────────────────────────────────────┐
-│              MINEWATCH DASHBOARD           │
-│                                            │
-│  Live readings · Charts · GPS map          │
-│  History table · CSV export                │
-│  Sign-in · Remote buzzer control           │
-└────────────────────────────────────────────┘
+SMART HELMET
+  Gas sensor / DHT11 / NEO-6M GPS / OLED
+                  |
+          NodeMCU ESP8266
+            |           ^
+        Wi-Fi telemetry | buzzer command
+            v           |
+      Firebase Realtime Database
+            ^           ^
+            |           |
+ Next.js dashboard -----+
+            |
+            | POST /predict
+            v
+ FastAPI ML service
+            |
+   Isolation Forest model
 ```
 
-**Data flow:** Sensors and GPS feed the ESP8266. The controller processes readings and uploads telemetry to Firebase. The dashboard listens for database updates. For remote buzzer control, the dashboard writes a Boolean command and the ESP8266 reads it.
+**Data flow:** Sensors and GPS feed the ESP8266. The controller processes readings and uploads telemetry to Firebase. The Next.js dashboard subscribes to database updates. For AI analysis, the dashboard sends sensor readings to the FastAPI prediction endpoint. For remote buzzer control, the dashboard writes a Boolean command to Firebase and the ESP8266 reads it. Simulation Lab readings are sent only to the ML API; they do not update Firebase or the physical helmet.
 
 ## Hardware
 
@@ -153,23 +142,51 @@ Check the exact board, module, voltage, and wiring requirements before connectin
 | GPS parsing | TinyGPS++ |
 | Cloud database | Firebase Realtime Database |
 | Authentication | Firebase Authentication |
-| Dashboard | HTML, CSS, JavaScript |
+| Web dashboard | Next.js App Router, React, TypeScript |
+| Styling | CSS in `web/src/app/globals.css` (Tailwind CSS is also installed) |
 | Map | Leaflet 1.9.4 + OpenStreetMap tiles |
-| Charts | Chart.js |
-| Fonts | Google Fonts (Manrope, DM Mono) |
+| Telemetry charts | Chart.js |
+| 3D Simulation Lab | Three.js, React Three Fiber, and Drei |
+| ML API | Python + FastAPI |
+| Anomaly model | scikit-learn Isolation Forest + RobustScaler |
+| ML data processing | pandas + NumPy |
 
-The dashboard loads Firebase Web SDK modules and frontend libraries from CDNs, so an internet connection is required.
+The Next.js frontend is deployed separately from the FastAPI service. The frontend uses Firebase Web SDK configuration from environment variables. The ML API is hosted as a separate service and allows the configured frontend origin through CORS.
 
 ## Repository structure
 
 ```text
 smart-mining-helmet/
-├── app.js
-├── index.html
-├── style.css
-├── Smart_mining_firmware.ino
-├── MineWatch-IoT-Based-Smart-Mining-Helmet-Polished.pptx
-└── README.md
+|-- firmware/
+|   `-- Smart_mining_firmware.ino
+|-- ml/
+|   |-- api.py
+|   |-- helmet_readings.json
+|   |-- requirements.txt
+|   |-- test.py
+|   |-- train_model.py
+|   `-- artifacts/
+|       `-- isolation_forest.joblib
+|-- web/
+|   |-- public/models/helmet.glb
+|   |-- src/
+|   |   |-- app/
+|   |   |   |-- page.tsx
+|   |   |   `-- simulation/page.tsx
+|   |   |-- components/
+|   |   |   |-- auth/
+|   |   |   |-- dashboard/
+|   |   |   |-- icons/
+|   |   |   `-- ui/
+|   |   `-- lib/
+|   |       |-- ai/
+|   |       |-- firebase/
+|   |       |-- sensors/
+|   |       `-- types/
+|   |-- package.json
+|   `-- pnpm-lock.yaml
+|-- smart-mining-helmet-innovathon.pptx
+`-- README.md
 ```
 
 ## How it works
@@ -180,8 +197,9 @@ smart-mining-helmet/
 4. The OLED displays the current readings and alert status.
 5. When Firebase authentication is ready, the ESP8266 uploads live telemetry approximately every 3 seconds.
 6. The firmware appends a history record approximately every 10 seconds.
-7. The dashboard subscribes to live data, history, and the dashboard-buzzer command in Firebase.
-8. When an operator changes the dashboard buzzer control, the dashboard writes a Boolean command. The ESP8266 polls the command approximately every 3 seconds and updates the separate buzzer output.
+7. The Next.js dashboard subscribes to live data and history in Firebase, and sends dashboard-buzzer commands through Firebase.
+8. The dashboard sends recent sensor history to the FastAPI `/predict` endpoint for anomaly detection.
+9. The Simulation Lab creates 100 generated readings and sends them to the same ML endpoint. These simulated readings do not go to Firebase or to the physical helmet.
 
 ## Firebase data structure
 
@@ -230,12 +248,12 @@ The dashboard writes a Boolean (`true` or `false`) to `/MiningHelmet/commands/da
 
 ### Prerequisites
 
+- Node.js and pnpm for the Next.js dashboard.
+- Python 3.10 or newer recommended for the ML service.
 - A Firebase project with **Email/Password Authentication** enabled.
 - Firebase Realtime Database configured with appropriate security rules.
-- A Firebase Authentication user authorized to access the dashboard and database.
 - Arduino IDE with ESP8266 board support for firmware upload.
 - Required Arduino libraries listed in [Firmware setup](#firmware-setup).
-- A modern browser and an internet connection for the dashboard.
 
 ### 1. Clone the repository
 
@@ -246,21 +264,27 @@ cd smart-mining-helmet
 
 ### 2. Configure Firebase
 
-Create or use the Firebase project associated with the prototype. Enable Email/Password sign-in and configure Realtime Database rules so only authorized users and the authenticated device account can access the required paths.
+Create `web/.env.local` with the Firebase web app configuration:
 
-The dashboard's Firebase web configuration is currently defined in `app.js`. The firmware has separate device authentication settings in `Smart_mining_firmware.ino`.
+```env
+NEXT_PUBLIC_FIREBASE_API_KEY=your-firebase-web-api-key
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_DATABASE_URL=https://your-database-url
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-project-id
+NEXT_PUBLIC_AI_API_URL=http://127.0.0.1:8000
+```
 
-**Security note:** Never commit real passwords, Wi-Fi credentials, service-account keys, or other secrets. Replace placeholder credentials before compiling the firmware. Review database rules before deployment; do not use public read/write rules.
+Keep real secrets out of version control. The `.env*` files are ignored by Git. Firebase database rules should allow only authorized access. The firmware has separate device authentication settings in `firmware/Smart_mining_firmware.ino`.
 
-### 3. Run the dashboard
+### 3. Run the web dashboard
 
-This repository contains a static HTML/CSS/JavaScript dashboard (not a Next.js app in its current form).
+```bash
+cd web
+pnpm install
+pnpm dev
+```
 
-- Open the project folder in VS Code.
-- Run `index.html` using the VS Code Live Server extension.
-- Sign in using an Email/Password account created in Firebase Authentication.
-
-The dashboard uses CDN-hosted libraries and OpenStreetMap tiles, so the browser needs internet access.
+Open `http://localhost:3000` and sign in with an account created in Firebase Authentication. Start the ML API separately as described in [Dashboard setup](#dashboard-setup) to use AI predictions.
 
 ## Firmware setup
 
@@ -271,7 +295,7 @@ The dashboard uses CDN-hosted libraries and OpenStreetMap tiles, so the browser 
    - Adafruit SSD1306
    - DHT sensor library
    - TinyGPSPlus
-3. Open `Smart_mining_firmware.ino`.
+3. Open `firmware/Smart_mining_firmware.ino`.
 4. Set the Wi-Fi SSID and password.
 5. Set the Firebase API key, device authentication email/password, and Realtime Database URL.
 6. Verify the pin connections against the [firmware pin configuration](#firmware-pin-configuration).
@@ -283,12 +307,25 @@ The firmware uploads live telemetry every 3 seconds and adds a history record ev
 ## Dashboard setup
 
 The dashboard uses:
-- Firebase Authentication for sign-in.
-- Firebase Realtime Database listeners for live telemetry, history, and buzzer state.
+- Next.js App Router, React, and TypeScript.
+- Firebase Authentication and Realtime Database listeners for live telemetry, history, and buzzer state.
 - Leaflet with OpenStreetMap tiles for GPS visualization.
 - Chart.js for telemetry charts.
+- Three.js with React Three Fiber and Drei for the Simulation Lab helmet model.
 
-If the dashboard reports a database permission error, verify the signed-in Firebase user, device authentication, database URL, and Realtime Database security rules.
+The ML service is separate from the web app. To run it locally:
+
+```bash
+cd ml
+python -m venv .venv
+# Activate the virtual environment, then:
+pip install -r requirements.txt
+uvicorn api:app --reload --host 127.0.0.1 --port 8000
+```
+
+The API loads `artifacts/isolation_forest.joblib` and exposes `/health` and `/predict`. For Render, use `ml` as the service root and `uvicorn api:app --host 0.0.0.0 --port $PORT` as the start command. Set `FRONTEND_URL` in Render to the Vercel dashboard origin. Set `NEXT_PUBLIC_AI_API_URL` in Vercel to the Render service origin (without `/predict`), then redeploy the frontend.
+
+If the dashboard reports a database permission error, verify the signed-in Firebase user, device authentication, database URL, and Realtime Database security rules. If AI prediction fails after deployment, verify the Render service URL and its `FRONTEND_URL` CORS setting.
 
 ## Safety logic
 
