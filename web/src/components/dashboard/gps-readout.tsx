@@ -1,7 +1,10 @@
 import type { HelmetGps } from "@/lib/types";
+import { hasValidGpsFix } from "@/lib/gps";
+import type { BrowserPosition } from "@/lib/gps";
 
 interface GpsReadoutProps {
   gps: HelmetGps | null | undefined;
+  browserPosition: BrowserPosition | null;
 }
 
 const format = (value: number | undefined, digits = 1) =>
@@ -9,21 +12,40 @@ const format = (value: number | undefined, digits = 1) =>
     ? value.toFixed(digits)
     : "--";
 
-export function GpsReadout({ gps }: GpsReadoutProps) {
-  const hasFix = gps?.gpsFix === true;
+export function GpsReadout({ gps, browserPosition }: GpsReadoutProps) {
+  const hasHelmetFix = hasValidGpsFix(gps);
+  const hasLaptopFallback = !hasHelmetFix && browserPosition !== null;
+  const latitude = hasHelmetFix
+    ? format(gps.latitude, 6)
+    : hasLaptopFallback
+      ? format(browserPosition.latitude, 6)
+      : "--";
+  const longitude = hasHelmetFix
+    ? format(gps.longitude, 6)
+    : hasLaptopFallback
+      ? format(browserPosition.longitude, 6)
+      : "--";
+
   const stats = [
-    { label: "Latitude", value: hasFix ? format(gps.latitude, 6) : "--" },
-    { label: "Longitude", value: hasFix ? format(gps.longitude, 6) : "--" },
-    { label: "Altitude", value: hasFix ? `${format(gps.altitude)} m` : "-- m" },
-    { label: "Speed", value: hasFix ? `${format(gps.speed)} km/h` : "-- km/h" },
+    { label: "Latitude", value: latitude },
+    { label: "Longitude", value: longitude },
+    {
+      label: hasHelmetFix ? "Altitude" : "Accuracy",
+      value: hasHelmetFix
+        ? `${format(gps.altitude)} m`
+        : hasLaptopFallback
+          ? `±${Math.round(browserPosition.accuracy)} m`
+          : "-- m",
+    },
+    { label: "Speed", value: hasHelmetFix ? `${format(gps.speed)} km/h` : "-- km/h" },
     {
       label: "Satellites",
       value:
-        typeof gps?.satellites === "number" && Number.isFinite(gps.satellites)
+        hasHelmetFix && typeof gps.satellites === "number" && Number.isFinite(gps.satellites)
           ? String(gps.satellites)
           : "--",
     },
-    { label: "HDOP", value: hasFix ? format(gps?.hdop) : "--" },
+    { label: "HDOP", value: hasHelmetFix ? format(gps.hdop) : "--" },
   ];
 
   return (

@@ -59,8 +59,7 @@ function normalizeHistory(
 
   return Object.entries(raw)
     .map(([key, record]) => ({ key, ...(record ?? {}) }))
-    .sort((a, b) => a.key.localeCompare(b.key))
-    
+    .sort((a, b) => a.key.localeCompare(b.key));
 }
 
 export function useDashboardData() {
@@ -69,6 +68,7 @@ export function useDashboardData() {
   const [firebaseStatus, setFirebaseStatus] =
     useState<FirebaseConnectionStatus>("connecting");
   const [live, setLive] = useState<LiveHelmetTelemetry | null>(null);
+  const [liveLoaded, setLiveLoaded] = useState(false);
   const [history, setHistory] = useState<HelmetHistoryRecord[]>([]);
   const [historyLoaded, setHistoryLoaded] = useState(false);
   const [buzzerOn, setBuzzerOn] = useState(false);
@@ -98,6 +98,7 @@ export function useDashboardData() {
   useEffect(() => {
     if (!user) {
       setLive(null);
+      setLiveLoaded(false);
       setHistory([]);
       setHistoryLoaded(false);
       setBuzzerOn(false);
@@ -110,6 +111,7 @@ export function useDashboardData() {
     setBuzzerAvailable(false);
     setBuzzerError(null);
     setFirebaseStatus("connecting");
+    setLiveLoaded(false);
 
     const unsubscribeConnection = onValue(
       ref(db, ".info/connected"),
@@ -128,21 +130,20 @@ export function useDashboardData() {
       (snapshot) => {
         const value = snapshot.val() as LiveHelmetTelemetry | null;
         setLive(value);
+        setLiveLoaded(true);
         if (!value)
           setNotice(
             "Connected to Firebase, but /MiningHelmet/live has no data yet.",
           );
       },
       (error) => {
+        setLiveLoaded(true);
         setFirebaseStatus("error");
         setNotice(`Live data read failed: ${messageForError(error)}`);
       },
     );
 
-    const historyQuery = query(
-      ref(db, "MiningHelmet/history"),
-      orderByKey()
-    );
+    const historyQuery = query(ref(db, "MiningHelmet/history"), orderByKey());
     const unsubscribeHistory = onValue(
       historyQuery,
       (snapshot) => {
@@ -218,6 +219,7 @@ export function useDashboardData() {
     authLoading,
     firebaseStatus,
     live,
+    liveLoaded,
     history,
     historyLoaded,
     buzzerOn,

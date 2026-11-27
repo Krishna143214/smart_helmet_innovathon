@@ -13,6 +13,7 @@ import { AiPredictionCard } from "@/components/dashboard/ai-prediction-card";
 import { useDashboardData } from "@/lib/firebase/use-dashboard-data";
 import { formatLastUpdate, timestampToDate } from "@/lib/format";
 import { SENSOR_THRESHOLDS } from "@/lib/sensors/thresholds";
+import { sensorDotClass } from "@/lib/sensors/status";
 import { DropLets, HeatWaves, GasSensor, SatelliteIcon } from "@/components/icons";
 const degreeC = "\u00b0C";
 const middleDot = "\u00b7";
@@ -120,15 +121,7 @@ export default function Home() {
                       : `Demo range: ${SENSOR_THRESHOLDS.gas.min}-${SENSOR_THRESHOLDS.gas.max} ADC`
               }
               icon={GasSensor()}
-              dotClass={
-                dashboard.live
-                  ? gasHigh
-                    ? "red"
-                    : gasLow
-                      ? "amber"
-                      : "green"
-                  : ""
-              }
+              dotClass={sensorDotClass(gas, gasLow, gasHigh, helmetStatus)}
               meterWidth={percent(gas, 1023)}
               meterColor={
                 gasHigh
@@ -154,15 +147,7 @@ export default function Home() {
                       : `Demo range: ${SENSOR_THRESHOLDS.temperature.min}-${SENSOR_THRESHOLDS.temperature.max}${degreeC}`
               }
               icon={HeatWaves()}
-              dotClass={
-                dashboard.live
-                  ? tempHigh
-                    ? "red"
-                    : tempLow
-                      ? "amber"
-                      : "green"
-                  : ""
-              }
+              dotClass={sensorDotClass(temperature, tempLow, tempHigh, helmetStatus)}
               meterWidth={percent(temperature, 60)}
               meterColor={
                 tempHigh
@@ -188,15 +173,7 @@ export default function Home() {
                       : `Demo range: ${SENSOR_THRESHOLDS.humidity.min}-${SENSOR_THRESHOLDS.humidity.max}%`
               }
               icon={DropLets()}
-              dotClass={
-                dashboard.live
-                  ? humidityHigh
-                    ? "red"
-                    : humidityLow
-                      ? "amber"
-                      : "green"
-                  : ""
-              }
+              dotClass={sensorDotClass(humidity, humidityLow, humidityHigh, helmetStatus)}
               meterWidth={percent(humidity, 100)}
               meterColor={
                 humidityHigh
@@ -218,7 +195,13 @@ export default function Home() {
                     : "Waiting for GPS fix"
               }
               icon={SatelliteIcon()}
-              dotClass={gps?.gpsFix ? "green" : ""}
+              dotClass={
+                !dashboard.live
+                  ? ""
+                  : gps?.gpsFix && satellites !== null && helmetStatus === "online"
+                    ? "green"
+                    : "amber"
+              }
               meterWidth={gps?.gpsFix ? percent(satellites, 12) : 0}
               meterColor="var(--green)"
             />
@@ -233,7 +216,11 @@ export default function Home() {
             className="grid main-grid"
             aria-label="Location and safety controls"
           >
-            <LocationCard gps={gps} history={dashboard.history} />
+            <LocationCard
+              gps={gps}
+              history={dashboard.history}
+              firebaseLoaded={dashboard.liveLoaded}
+            />
             <SafetyControls
               alerts={alerts}
               hasTelemetry={dashboard.live !== null}

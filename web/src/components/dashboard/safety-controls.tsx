@@ -57,7 +57,7 @@ export function SafetyControls({
       </div>
       <div className="alert-list">
         <div className="alert-row">
-          <span className="alert-name">Gas threshold (&gt; 400 ADC)</span>
+          <span className="alert-name">Gas threshold (&gt; 650 ADC)</span>
           <span className={`state ${gasAlert ? "bad" : ""}`}>
             {gasAlert ? "ALERT" : "NORMAL"}
           </span>

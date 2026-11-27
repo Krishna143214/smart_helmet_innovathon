@@ -230,6 +230,7 @@ export function AiSimulationLab() {
     unlockDemoAudio();
     setStatus("loading");
     setError(null);
+    const readings = makeReadings({ gas, temperature, humidity });
 
     try {
       const apiUrl =
@@ -238,7 +239,7 @@ export function AiSimulationLab() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          readings: makeReadings({ gas, temperature, humidity }),
+          readings,
         }),
       });
       const body = await response.json();
@@ -416,7 +417,8 @@ export function AiSimulationLab() {
         <div className="sim-result" aria-live="polite">
           {status === "success" && prediction ? (
             <>
-              <div className="ai-result-label">Model response</div>
+              <div className="panel-title">Model response</div>
+
               <div
                 className={`ai-result ${prediction.is_anomaly ? "bad" : "good"}`}
               >
@@ -438,13 +440,12 @@ export function AiSimulationLab() {
             </div>
           ) : (
             <>
-              <div className="ai-result-label">Model response</div>
+              <div className="panel-title">Model response</div>
               <div className="sim-placeholder">
                 Set conditions and run a simulation to see the prediction.
               </div>
               <div className="panel-kicker ai-message">
-                The lab sends 100 generated readings to the same Isolation
-                Forest API.
+                The lab sends 100 generated readings to the backend.
               </div>
             </>
           )}
@@ -453,14 +454,14 @@ export function AiSimulationLab() {
           <div className="simulation-event-header">
             <div>
               <div className="panel-title">Simulation alert log</div>
-              <div className="panel-kicker">Local demo events only · no Firebase writes</div>
+              <div className="panel-kicker">Local demo events only · no Database writes</div>
             </div>
             <button className="btn" type="button" onClick={downloadEvents} disabled={events.length === 0}>
               Export CSV ({events.length})
             </button>
           </div>
           {events.length === 0 ? (
-            <div className="sim-placeholder">No alerts recorded yet. Try a Warning or Critical scenario.</div>
+            <div className="sim-placeholder text-center">No alerts recorded yet. Try a Warning or Critical scenario.</div>
           ) : (
             <div className="simulation-event-list">
               {events.map((event) => (

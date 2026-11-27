@@ -26,7 +26,7 @@ export default function SimulationPage() {
         <section className="page-heading">
           <div>
             <div className="eyebrow">MineWatch / AI tools</div>
-            <h1>AI Simulation Lab</h1>
+            <h1>Simulation Lab</h1>
             <div className="subheading">Explore simulated sensor conditions and see how the model and helmet indicators respond.</div>
           </div>
           <div className="sync-note">SIMULATION MODE<br /><span>Separate from live helmet controls</span></div>

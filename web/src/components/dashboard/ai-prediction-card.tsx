@@ -125,8 +125,7 @@ export function AiPredictionCard({
         </div>
         {ai.state === "error" && (
           <div className="ai-error" role="alert">
-            {ai.error} Check that the API is running and
-            `NEXT_PUBLIC_AI_API_URL` points to it.
+            {ai.error} Check that the Backend is running...
           </div>
         )}
       </div>

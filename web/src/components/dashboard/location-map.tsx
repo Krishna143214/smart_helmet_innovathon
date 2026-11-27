@@ -3,32 +3,19 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Map as LeafletMap, Marker, Polyline } from "leaflet";
 import type { HelmetGps, HelmetHistoryRecord } from "@/lib/types";
+import { hasValidGpsFix } from "@/lib/gps";
+import type { BrowserPosition } from "@/lib/gps";
 
 interface LocationMapProps {
   gps: HelmetGps | null | undefined;
   history: HelmetHistoryRecord[];
+  browserPosition: BrowserPosition | null;
 }
 
 function gpsValue(value: number | undefined, digits = 1): string {
   return typeof value === "number" && Number.isFinite(value)
     ? value.toFixed(digits)
     : "--";
-}
-
-function hasValidGpsFix(
-  gps: HelmetGps | null | undefined,
-): gps is HelmetGps & { latitude: number; longitude: number } {
-  return (
-    gps?.gpsFix === true &&
-    typeof gps.latitude === "number" &&
-    Number.isFinite(gps.latitude) &&
-    gps.latitude >= -90 &&
-    gps.latitude <= 90 &&
-    typeof gps.longitude === "number" &&
-    Number.isFinite(gps.longitude) &&
-    gps.longitude >= -180 &&
-    gps.longitude <= 180
-  );
 }
 
 function popupMarkup(gps: HelmetGps): string {
@@ -44,7 +31,11 @@ function popupMarkup(gps: HelmetGps): string {
   return `<div class="helmet-popup"><div class="helmet-popup__title">Smart Mining Helmet</div><div class="helmet-popup__grid">${values.map(([label, value]) => `<div class="helmet-popup__item"><span>${label}</span><strong>${value}</strong></div>`).join("")}</div></div>`;
 }
 
-export function LocationMap({ gps, history }: LocationMapProps) {
+function browserPopupMarkup(position: BrowserPosition): string {
+  return `<div class="helmet-popup"><div class="helmet-popup__title">GPS location</div><div class="helmet-popup__grid"><div class="helmet-popup__item"><span>Latitude</span><strong>${position.latitude.toFixed(6)}</strong></div><div class="helmet-popup__item"><span>Longitude</span><strong>${position.longitude.toFixed(6)}</strong></div><div class="helmet-popup__item"><span>Accuracy</span><strong>±${Math.round(position.accuracy)} m</strong></div></div></div>`;
+}
+
+export function LocationMap({ gps, history, browserPosition }: LocationMapProps) {
   const mapElement = useRef<HTMLDivElement>(null);
   const mapInstance = useRef<LeafletMap | null>(null);
   const marker = useRef<Marker | null>(null);
@@ -53,6 +44,17 @@ export function LocationMap({ gps, history }: LocationMapProps) {
   const [mapError, setMapError] = useState<string | null>(null);
 
   const hasValidPosition = hasValidGpsFix(gps);
+  const useBrowserPosition = !hasValidPosition && browserPosition !== null;
+  const activePosition = hasValidPosition
+    ? { latitude: gps.latitude, longitude: gps.longitude, source: "helmet" as const }
+    : useBrowserPosition
+      ? {
+          latitude: browserPosition.latitude,
+          longitude: browserPosition.longitude,
+          source: "laptop" as const,
+        }
+      : null;
+  const markerSource = useRef<"helmet" | "laptop" | null>(null);
 
   const routePoints = useMemo<[number, number][]>(() => {
     const points: [number, number][] = [];
@@ -114,18 +116,29 @@ export function LocationMap({ gps, history }: LocationMapProps) {
       mapInstance.current?.remove();
       mapInstance.current = null;
       marker.current = null;
+      markerSource.current = null;
       route.current = null;
     };
   }, []);
 
   useEffect(() => {
-    if (!ready || !mapInstance.current || !hasValidGpsFix(gps)) return;
+    if (!ready || !mapInstance.current) return;
+    if (!activePosition) {
+      marker.current?.remove();
+      marker.current = null;
+      markerSource.current = null;
+      return;
+    }
 
-    const coordinates: [number, number] = [gps.latitude, gps.longitude];
+    const coordinates: [number, number] = [
+      activePosition.latitude,
+      activePosition.longitude,
+    ];
     import("leaflet").then((leaflet) => {
       const map = mapInstance.current;
       if (!map) return;
 
+      const isLaptop = activePosition.source === "laptop";
       const icon = leaflet.divIcon({
         className: "helmet-map-marker",
         html: '<div class="helmet-marker"><span class="helmet-marker__badge"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 14a8 8 0 0 1 16 0v2H4v-2Z" stroke="currentColor" stroke-width="2"/><path d="M3 16h18v3H3zM12 6V3M8 7 6 5m10 2 2-2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span><span class="helmet-marker__tip"></span></div>',
@@ -136,15 +149,22 @@ export function LocationMap({ gps, history }: LocationMapProps) {
 
       if (!marker.current) {
         marker.current = leaflet.marker(coordinates, { icon }).addTo(map);
-        map.setView(coordinates, 16);
+        map.setView(coordinates, isLaptop ? 14 : 16);
       } else {
         marker.current.setLatLng(coordinates);
         marker.current.setIcon(icon);
-        if (map.getZoom() < 10) map.setView(coordinates, 16);
+        if (markerSource.current !== activePosition.source || map.getZoom() < 10) {
+          map.setView(coordinates, isLaptop ? 14 : 16);
+        }
       }
-      marker.current.bindPopup(popupMarkup(gps));
+      markerSource.current = activePosition.source;
+      marker.current.bindPopup(
+        isLaptop
+          ? browserPopupMarkup(browserPosition!)
+          : popupMarkup(gps!),
+      );
     });
-  }, [gps, hasValidPosition, ready]);
+  }, [gps, browserPosition, activePosition?.latitude, activePosition?.longitude, activePosition?.source, ready]);
 
   useEffect(() => {
     if (!ready || !mapInstance.current) return;
@@ -175,27 +195,29 @@ export function LocationMap({ gps, history }: LocationMapProps) {
     });
   }, [ready, routePoints]);
 
-  const hasFix = gps?.gpsFix === true;
-  const position = hasFix
-    ? `${gpsValue(gps?.latitude, 6)}, ${gpsValue(gps?.longitude, 6)}`
+  const position = activePosition
+    ? `${gpsValue(activePosition.latitude, 6)}, ${gpsValue(activePosition.longitude, 6)}`
     : null;
 
   function recenterMap() {
     const map = mapInstance.current;
     if (!map) return;
-    const target = hasValidGpsFix(gps)
-      ? ([gps.latitude, gps.longitude] as [number, number])
+    const target = activePosition
+      ? ([activePosition.latitude, activePosition.longitude] as [number, number])
       : (marker.current?.getLatLng() ?? routePoints[routePoints.length - 1]);
-    if (target) map.setView(target, 16, { animate: true });
+    if (target) {
+      const zoom = activePosition?.source === "laptop" ? 14 : 16;
+      map.setView(target, zoom, { animate: true });
+    }
   }
 
   return (
     <div className="map-wrap">
-      <div id="map" ref={mapElement} aria-label="Helmet GPS map" />
+      <div id="map" ref={mapElement} aria-label="GPS location map" />
       <div className="map-overlay">
         {mapError ??
           (position
-            ? `GPS FIX \u00b7 ${position}`
+            ? `GPS LOCATION · ${position}`
             : "Waiting for valid GPS coordinates")}
       </div>
       {routePoints.length > 1 && (
@@ -208,9 +230,9 @@ export function LocationMap({ gps, history }: LocationMapProps) {
         className="map-recenter"
         type="button"
         onClick={recenterMap}
-        disabled={!hasValidPosition && routePoints.length === 0}
-        aria-label="Center map on helmet"
-        title="Center map on helmet"
+        disabled={!activePosition && routePoints.length === 0}
+        aria-label="Center map on active location"
+        title="Center map on active location"
       >
         <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
           <circle
