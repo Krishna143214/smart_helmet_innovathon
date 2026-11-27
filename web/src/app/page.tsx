@@ -107,7 +107,7 @@ export default function Home() {
           <section className="grid metrics" aria-label="Live helmet readings">
             <MetricCard
               title="GAS SENSOR"
-              value={fixed(gas, 0)}
+              value={fixed(gas, 5)}
               unit="ADC"
               note={
                 gas === null
